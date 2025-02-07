@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Saluran</name>
+    <Style id="line-00855F-5429-normal">
+      <LineStyle>
+        <color>ff5f8500</color>
+        <width>5.429</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-00855F-5429-highlight">
+      <LineStyle>
+        <color>ff5f8500</color>
+        <width>8.1435</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-00855F-5429">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-00855F-5429-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-00855F-5429-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-00855F-5621-normal">
+      <LineStyle>
+        <color>ff5f8500</color>
+        <width>5.621</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-00855F-5621-highlight">
+      <LineStyle>
+        <color>ff5f8500</color>
+        <width>8.4315</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-00855F-5621">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-00855F-5621-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-00855F-5621-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-00855F-5814-normal">
+      <LineStyle>
+        <color>ff5f8500</color>
+        <width>5.814</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-00855F-5814-highlight">
+      <LineStyle>
+        <color>ff5f8500</color>
+        <width>8.721</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-00855F-5814">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-00855F-5814-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-00855F-5814-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-00855F-7354-normal">
+      <LineStyle>
+        <color>ff5f8500</color>
+        <width>7.354</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-00855F-7354-highlight">
+      <LineStyle>
+        <color>ff5f8500</color>
+        <width>11.031</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-00855F-7354">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-00855F-7354-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-00855F-7354-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-5429-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>5.429</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-5429-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>8.1435</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-5429">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-5429-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-5429-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-5621-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>5.621</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-5621-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>8.4315</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-5621">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-5621-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-5621-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-5814-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>5.814</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-5814-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>8.721</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-5814">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-5814-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-5814-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-6006-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>6.006</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-6006-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>9.009</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-6006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-6006-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-6006-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-097138-5043-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>5.043</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-097138-5043-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>7.5645</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-097138-5043">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-097138-5043-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-097138-5043-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-097138-5236-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>5.236</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-097138-5236-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>7.854</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-097138-5236">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-097138-5236-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-097138-5236-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-097138-5429-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>5.429</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-097138-5429-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>8.1435</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-097138-5429">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-097138-5429-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-097138-5429-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-097138-5621-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>5.621</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-097138-5621-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>8.4315</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-097138-5621">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-097138-5621-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-097138-5621-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1A237E-5621-normal">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>5.621</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-1A237E-5621-highlight">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>8.4315</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-1A237E-5621">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1A237E-5621-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1A237E-5621-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-757575-5429-normal">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>5.429</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-757575-5429-highlight">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>8.1435</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-757575-5429">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-757575-5429-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-757575-5429-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-757575-5621-normal">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>5.621</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-757575-5621-highlight">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>8.4315</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-757575-5621">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-757575-5621-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-757575-5621-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-757575-5814-normal">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>5.814</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-757575-5814-highlight">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>8.721</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-757575-5814">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-757575-5814-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-757575-5814-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-757575-6006-normal">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>6.006</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-757575-6006-highlight">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>9.009</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-757575-6006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-757575-6006-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-757575-6006-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-A52714-5429-normal">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>5.429</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-A52714-5429-highlight">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>8.1435</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-A52714-5429">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-A52714-5429-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-A52714-5429-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-A52714-5621-normal">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>5.621</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-A52714-5621-highlight">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>8.4315</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-A52714-5621">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-A52714-5621-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-A52714-5621-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-A52714-6006-normal">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>6.006</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-A52714-6006-highlight">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>9.009</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-A52714-6006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-A52714-6006-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-A52714-6006-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>sal tersier tambak bayan</name>
+      <description><![CDATA[sal tersier tambak bayan    <br>       <br>   FID   0    <br>   nama   sal tersier tambak bayan    <br>   nomenklatu   bpl    <br>   id_di   26647    <br>   norec   147    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-5429</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.415423,-7.776553,0
+          110.415493,-7.776258,0
+          110.415563,-7.775964,0
+          110.415905,-7.774318,0
+          110.415877,-7.774307,0
+          110.415719,-7.774299,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>tersier tambak bayan</name>
+      <description><![CDATA[tersier tambak bayan    <br>       <br>   FID   1    <br>   nama   tersier tambak bayan    <br>   nomenklatu   bpl    <br>   id_di   26647    <br>   norec   150    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.417297,-7.774837,0
+          110.415988,-7.774574,0
+          110.415873,-7.774566,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>tersier tambak bayan</name>
+      <description><![CDATA[tersier tambak bayan    <br>       <br>   FID   2    <br>   nama   tersier tambak bayan    <br>   nomenklatu   bpl    <br>   id_di   26647    <br>   norec   151    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-5236</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.413928,-7.776829,0
+          110.414328,-7.775013,0
+          110.414377,-7.774907,0
+          110.414451,-7.774766,0
+          110.414481,-7.774562,0
+          110.414506,-7.774227,0
+          110.414114,-7.774212,0
+          110.412958,-7.774107,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 2 A 1</name>
+      <description><![CDATA[ST Janti 2 A 1    <br>       <br>   FID   3    <br>   nama   ST Janti 2 A 1    <br>   nomenklatu   BPdKi4    <br>   id_di   26647    <br>   norec   10    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-5043</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.406914,-7.785363,0
+          110.407186,-7.784856,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Tersier</name>
+      <description><![CDATA[Saluran Tersier    <br>       <br>   FID   4    <br>   nama   Saluran Tersier    <br>   nomenklatu   BPd3    <br>   id_di   26647    <br>   norec   18    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-5429</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.413778,-7.769646,0
+          110.413793,-7.769544,0
+          110.413761,-7.769543,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Sekunder Pulodadi Kiri</name>
+      <description><![CDATA[Saluran Sekunder Pulodadi Kiri    <br>       <br>   FID   5    <br>   nama   Saluran Sekunder Pulodadi Kiri    <br>   nomenklatu   BPdKi2BPdKi3    <br>   id_di   26647    <br>   norec   29    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.407988,-7.783403,0
+          110.408346,-7.783407,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 2 C</name>
+      <description><![CDATA[ST Janti 2 C    <br>       <br>   FID   6    <br>   nama   ST Janti 2 C    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   48    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.405871,-7.785081,0
+          110.406072,-7.785118,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sal Tersier 2</name>
+      <description><![CDATA[Sal Tersier 2    <br>       <br>   FID   7    <br>   nama   Sal Tersier 2    <br>   nomenklatu   bpd2    <br>   id_di   26647    <br>   norec   51    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.415383,-7.764155,0
+          110.415471,-7.76381,0
+          110.415441,-7.763767,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 1</name>
+      <description><![CDATA[ST Janti 1    <br>       <br>   FID   8    <br>   nama   ST Janti 1    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   54    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.40916,-7.786337,0
+          110.409151,-7.786242,0
+          110.409122,-7.786043,0
+          110.409441,-7.785949,0
+          110.409536,-7.785943,0
+          110.409571,-7.785687,0
+          110.409632,-7.785472,0
+          110.409679,-7.785171,0
+          110.409728,-7.784676,0
+          110.409705,-7.784521,0
+          110.409705,-7.783995,0
+          110.409698,-7.783726,0
+          110.409551,-7.783494,0
+          110.40954,-7.7834,0
+          110.408345,-7.783407,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Induk Pulodadi</name>
+      <description><![CDATA[Saluran Induk Pulodadi    <br>       <br>   FID   9    <br>   nama   Saluran Induk Pulodadi    <br>   nomenklatu   BPd3BPd4    <br>   id_di   26647    <br>   norec   3    <br>   k_aset   S01]]></description>
+      <styleUrl>#line-A52714-5429</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.413235,-7.773513,0
+          110.413262,-7.773396,0
+          110.41329,-7.773299,0
+          110.413313,-7.773195,0
+          110.413328,-7.773121,0
+          110.413368,-7.772851,0
+          110.413365,-7.772699,0
+          110.41335,-7.772606,0
+          110.413335,-7.772498,0
+          110.413324,-7.772404,0
+          110.413323,-7.772316,0
+          110.413366,-7.77222,0
+          110.413432,-7.772122,0
+          110.413502,-7.772004,0
+          110.413528,-7.771936,0
+          110.41357,-7.771769,0
+          110.413595,-7.771554,0
+          110.413664,-7.771095,0
+          110.4137,-7.770824,0
+          110.413698,-7.770551,0
+          110.413708,-7.770444,0
+          110.413683,-7.770336,0
+          110.413683,-7.770252,0
+          110.413696,-7.770001,0
+          110.413729,-7.769771,0
+          110.413761,-7.769543,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Induk Pulodadi</name>
+      <description><![CDATA[Saluran Induk Pulodadi    <br>       <br>   FID   10    <br>   nama   Saluran Induk Pulodadi    <br>   nomenklatu   BPd1BPd2    <br>   id_di   26647    <br>   norec   25    <br>   k_aset   S01]]></description>
+      <styleUrl>#line-A52714-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.415441,-7.763767,0
+          110.415524,-7.76371,0
+          110.415912,-7.763407,0
+          110.416247,-7.763156,0
+          110.416281,-7.763127,0
+          110.416412,-7.763018,0
+          110.416428,-7.763003,0
+          110.416446,-7.762989,0
+          110.416483,-7.762957,0
+          110.416508,-7.762829,0
+          110.416483,-7.762712,0
+          110.416461,-7.762676,0
+          110.41644,-7.762642,0
+          110.416367,-7.762593,0
+          110.416325,-7.762557,0
+          110.416325,-7.762509,0
+          110.416337,-7.762464,0
+          110.416325,-7.762391,0
+          110.41626,-7.762242,0
+          110.416203,-7.762105,0
+          110.416157,-7.761961,0
+          110.416152,-7.761892,0
+          110.416155,-7.761719,0
+          110.416153,-7.761497,0
+          110.416168,-7.761173,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Sekunder Pulodadi Kanan</name>
+      <description><![CDATA[Saluran Sekunder Pulodadi Kanan    <br>       <br>   FID   11    <br>   nama   Saluran Sekunder Pulodadi Kanan    <br>   nomenklatu   BPdKa1BPdKa2    <br>   id_di   26647    <br>   norec   28    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-01579B-5429</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.41072,-7.774972,0
+          110.411211,-7.774951,0
+          110.411512,-7.774957,0
+          110.411666,-7.774958,0
+          110.411776,-7.774955,0
+          110.411864,-7.774918,0
+          110.411937,-7.774893,0
+          110.412114,-7.77479,0
+          110.412221,-7.774732,0
+          110.412354,-7.77466,0
+          110.412476,-7.774599,0
+          110.412643,-7.774502,0
+          110.412751,-7.774409,0
+          110.412804,-7.774357,0
+          110.412873,-7.774216,0
+          110.412958,-7.774107,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Sekunder Pulodadi Kiri</name>
+      <description><![CDATA[Saluran Sekunder Pulodadi Kiri    <br>       <br>   FID   12    <br>   nama   Saluran Sekunder Pulodadi Kiri    <br>   nomenklatu   BPdKi3BPdKi4    <br>   id_di   26647    <br>   norec   2    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-01579B-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.407186,-7.784856,0
+          110.407216,-7.784778,0
+          110.407249,-7.78473,0
+          110.407367,-7.784475,0
+          110.40742,-7.784365,0
+          110.407514,-7.784208,0
+          110.407595,-7.784086,0
+          110.407726,-7.783948,0
+          110.407822,-7.783819,0
+          110.407872,-7.783717,0
+          110.407953,-7.783527,0
+          110.407978,-7.783452,0
+          110.407988,-7.783403,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Sekunder Pulodadi Kiri</name>
+      <description><![CDATA[Saluran Sekunder Pulodadi Kiri    <br>       <br>   FID   13    <br>   nama   Saluran Sekunder Pulodadi Kiri    <br>   nomenklatu   BPdKi5BPdKi6    <br>   id_di   26647    <br>   norec   4    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-01579B-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.405818,-7.792064,0
+          110.406119,-7.792103,0
+          110.406292,-7.792127,0
+          110.406666,-7.792152,0
+          110.40667,-7.792168,0
+          110.406702,-7.792176,0
+          110.406691,-7.792252,0
+          110.407021,-7.792285,0
+          110.407142,-7.7923,0
+          110.407196,-7.792288,0
+          110.407254,-7.792302,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Sekunder Pulodadi Kiri</name>
+      <description><![CDATA[Saluran Sekunder Pulodadi Kiri    <br>       <br>   FID   14    <br>   nama   Saluran Sekunder Pulodadi Kiri    <br>   nomenklatu   BPd4BPdKi1    <br>   id_di   26647    <br>   norec   24    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-01579B-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.408346,-7.783396,0
+          110.408376,-7.783215,0
+          110.409532,-7.783189,0
+          110.409615,-7.782708,0
+          110.409652,-7.782442,0
+          110.410023,-7.782437,0
+          110.410471,-7.782357,0
+          110.411098,-7.781972,0
+          110.411517,-7.781618,0
+          110.411578,-7.781036,0
+          110.411696,-7.780723,0
+          110.411847,-7.780406,0
+          110.412209,-7.78047,0
+          110.412305,-7.780296,0
+          110.412409,-7.779945,0
+          110.41243,-7.779854,0
+          110.412459,-7.779755,0
+          110.412551,-7.779417,0
+          110.412656,-7.779041,0
+          110.412786,-7.778579,0
+          110.41289,-7.778122,0
+          110.412981,-7.77773,0
+          110.413054,-7.777465,0
+          110.413087,-7.777275,0
+          110.413207,-7.776823,0
+          110.41333,-7.776391,0
+          110.413462,-7.775925,0
+          110.413587,-7.775496,0
+          110.413687,-7.775124,0
+          110.413719,-7.775064,0
+          110.413759,-7.774898,0
+          110.413822,-7.774796,0
+          110.413846,-7.774637,0
+          110.413896,-7.774501,0
+          110.413881,-7.774381,0
+          110.413815,-7.774238,0
+          110.413814,-7.774225,0
+          110.413792,-7.774174,0
+          110.413785,-7.774118,0
+          110.413801,-7.774067,0
+          110.413765,-7.774067,0
+          110.413695,-7.774059,0
+          110.413588,-7.773923,0
+          110.413495,-7.773803,0
+          110.413379,-7.773662,0
+          110.413284,-7.773549,0
+          110.413235,-7.773513,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Sekunder Pulodadi Kanan</name>
+      <description><![CDATA[Saluran Sekunder Pulodadi Kanan    <br>       <br>   FID   15    <br>   nama   Saluran Sekunder Pulodadi Kanan    <br>   nomenklatu   BPd4BPdKa1    <br>   id_di   26647    <br>   norec   22    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-01579B-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.412958,-7.774107,0
+          110.412963,-7.774101,0
+          110.413061,-7.774,0
+          110.413145,-7.773771,0
+          110.413235,-7.773513,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Karang jambe</name>
+      <description><![CDATA[ST Karang jambe    <br>       <br>   FID   16    <br>   nama   ST Karang jambe    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   65    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.407697,-7.809938,0
+          110.407778,-7.809274,0
+          110.407678,-7.809185,0
+          110.407626,-7.809097,0
+          110.407666,-7.808982,0
+          110.407758,-7.808672,0
+          110.407782,-7.808385,0
+          110.407774,-7.808287,0
+          110.407809,-7.808062,0
+          110.40785,-7.807781,0
+          110.407805,-7.807621,0
+          110.407727,-7.807529,0
+          110.4077,-7.807432,0
+          110.407717,-7.807296,0
+          110.40777,-7.807108,0
+          110.407807,-7.806851,0
+          110.407826,-7.806651,0
+          110.40779,-7.806504,0
+          110.407779,-7.806378,0
+          110.407823,-7.806166,0
+          110.407833,-7.805984,0
+          110.407862,-7.805644,0
+          110.407843,-7.805238,0
+          110.407956,-7.80248,0
+          110.407562,-7.802471,0
+          110.40762,-7.800222,0
+          110.407702,-7.798904,0
+          110.40771,-7.798773,0
+          110.407721,-7.798549,0
+          110.40606,-7.79853,0
+          110.406106,-7.798018,0
+          110.406027,-7.79747,0
+          110.405801,-7.797442,0
+          110.405902,-7.797029,0
+          110.406138,-7.796994,0
+          110.406748,-7.797106,0
+          110.406836,-7.796241,0
+          110.406858,-7.795874,0
+          110.406883,-7.795496,0
+          110.406946,-7.793964,0
+          110.40694,-7.793871,0
+          110.40705,-7.793294,0
+          110.407141,-7.792744,0
+          110.407254,-7.792302,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Kledokan</name>
+      <description><![CDATA[ST Kledokan    <br>       <br>   FID   17    <br>   nama   ST Kledokan    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   73    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5429</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.408376,-7.783215,0
+          110.408282,-7.783137,0
+          110.408329,-7.78221,0
+          110.408407,-7.781168,0
+          110.408503,-7.779599,0
+          110.408545,-7.77901,0
+          110.408542,-7.778861,0
+          110.408514,-7.778534,0
+          110.40849,-7.778027,0
+          110.408356,-7.777797,0
+          110.408309,-7.777576,0
+          110.408303,-7.777504,0
+          110.408311,-7.777071,0
+          110.40836,-7.776835,0
+          110.408778,-7.774663,0
+          110.410215,-7.774976,0
+          110.410363,-7.774986,0
+          110.41072,-7.774973,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 1</name>
+      <description><![CDATA[ST Janti 1    <br>       <br>   FID   18    <br>   nama   ST Janti 1    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   57    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.409564,-7.787252,0
+          110.409531,-7.786747,0
+          110.409474,-7.786593,0
+          110.409218,-7.786349,0
+          110.409162,-7.786337,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>tersier jeruk legi jec</name>
+      <description><![CDATA[tersier jeruk legi jec    <br>       <br>   FID   19    <br>   nama   tersier jeruk legi jec    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   66    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.407759,-7.808658,0
+          110.407664,-7.808642,0
+          110.406917,-7.808558,0
+          110.406906,-7.808435,0
+          110.406911,-7.808334,0
+          110.406938,-7.808109,0
+          110.406944,-7.807977,0
+          110.406935,-7.807846,0
+          110.406892,-7.807708,0
+          110.406848,-7.807548,0
+          110.406777,-7.807302,0
+          110.406726,-7.807164,0
+          110.406654,-7.807005,0
+          110.406576,-7.806847,0
+          110.406523,-7.806591,0
+          110.40652,-7.806432,0
+          110.40652,-7.806251,0
+          110.406521,-7.80606,0
+          110.406569,-7.805955,0
+          110.406646,-7.805752,0
+          110.406681,-7.805613,0
+          110.406704,-7.805466,0
+          110.406721,-7.80532,0
+          110.40672,-7.805285,0
+          110.406659,-7.804953,0
+          110.406697,-7.804564,0
+          110.406406,-7.804496,0
+          110.405611,-7.804288,0
+          110.405299,-7.804226,0
+          110.405404,-7.802544,0
+          110.405465,-7.801336,0
+          110.405597,-7.798542,0
+          110.405661,-7.797121,0
+          110.405784,-7.795271,0
+          110.405872,-7.793784,0
+          110.405935,-7.792886,0
+          110.405939,-7.792623,0
+          110.405887,-7.792071,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 1</name>
+      <description><![CDATA[ST Janti 1    <br>       <br>   FID   20    <br>   nama   ST Janti 1    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   47    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.408863,-7.787311,0
+          110.408857,-7.787236,0
+          110.408766,-7.787063,0
+          110.40871,-7.787031,0
+          110.408723,-7.786987,0
+          110.40906,-7.786428,0
+          110.409158,-7.786338,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Tempel</name>
+      <description><![CDATA[ST Tempel    <br>       <br>   FID   21    <br>   nama   ST Tempel    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   74    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.410564,-7.776658,0
+          110.410711,-7.775778,0
+          110.41072,-7.774973,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Tersier 1</name>
+      <description><![CDATA[Saluran Tersier 1    <br>       <br>   FID   22    <br>   nama   Saluran Tersier 1    <br>   nomenklatu   BPd1    <br>   id_di   26647    <br>   norec   20    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.416494,-7.761197,0
+          110.416168,-7.761173,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 2 C 3</name>
+      <description><![CDATA[ST Janti 2 C 3    <br>       <br>   FID   23    <br>   nama   ST Janti 2 C 3    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   52    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.40709,-7.785748,0
+          110.407088,-7.785747,0
+          110.407181,-7.785468,0
+          110.406931,-7.785368,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 2 A</name>
+      <description><![CDATA[ST Janti 2 A    <br>       <br>   FID   24    <br>   nama   ST Janti 2 A    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   53    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5429</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.406093,-7.785126,0
+          110.406183,-7.784892,0
+          110.406253,-7.784601,0
+          110.40656,-7.784666,0
+          110.406809,-7.784095,0
+          110.406909,-7.783801,0
+          110.406898,-7.783698,0
+          110.406911,-7.783409,0
+          110.407988,-7.783403,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 2 C 2</name>
+      <description><![CDATA[ST Janti 2 C 2    <br>       <br>   FID   25    <br>   nama   ST Janti 2 C 2    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   55    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-7354</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.405731,-7.785677,0
+          110.405872,-7.785078,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 2 C</name>
+      <description><![CDATA[ST Janti 2 C    <br>       <br>   FID   26    <br>   nama   ST Janti 2 C    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   56    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.405869,-7.785088,0
+          110.405538,-7.784999,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 2 B</name>
+      <description><![CDATA[ST Janti 2 B    <br>       <br>   FID   27    <br>   nama   ST Janti 2 B    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   63    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.403643,-7.78765,0
+          110.404126,-7.784814,0
+          110.40433,-7.783413,0
+          110.406913,-7.783411,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>tersier jeruk legi</name>
+      <description><![CDATA[tersier jeruk legi    <br>       <br>   FID   28    <br>   nama   tersier jeruk legi    <br>   nomenklatu   ppd    <br>   id_di   26647    <br>   norec   64    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.405938,-7.79262,0
+          110.407121,-7.792701,0
+          110.407223,-7.792323,0
+          110.407254,-7.792302,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Soro wajan</name>
+      <description><![CDATA[ST Soro wajan    <br>       <br>   FID   29    <br>   nama   ST Soro wajan    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   67    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.405401,-7.802544,0
+          110.405342,-7.802491,0
+          110.405341,-7.802422,0
+          110.405365,-7.801895,0
+          110.405395,-7.80125,0
+          110.405479,-7.799798,0
+          110.405533,-7.798769,0
+          110.405047,-7.798751,0
+          110.405053,-7.798521,0
+          110.405537,-7.798528,0
+          110.405586,-7.797524,0
+          110.405668,-7.796291,0
+          110.40575,-7.794924,0
+          110.405858,-7.793319,0
+          110.405855,-7.793221,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Soro wajan A</name>
+      <description><![CDATA[ST Soro wajan A    <br>       <br>   FID   30    <br>   nama   ST Soro wajan A    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   70    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.405244,-7.793132,0
+          110.405773,-7.793214,0
+          110.405856,-7.793222,0
+          110.405872,-7.79257,0
+          110.405818,-7.792064,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 2 C</name>
+      <description><![CDATA[ST Janti 2 C    <br>       <br>   FID   31    <br>   nama   ST Janti 2 C    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   71    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.404613,-7.786652,0
+          110.404872,-7.785222,0
+          110.404939,-7.784895,0
+          110.405537,-7.784997,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ST Janti 2 C 1</name>
+      <description><![CDATA[ST Janti 2 C 1    <br>       <br>   FID   32    <br>   nama   ST Janti 2 C 1    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   72    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.404759,-7.78757,0
+          110.405539,-7.785,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang primer</name>
+      <description><![CDATA[pembuang primer    <br>       <br>   FID   33    <br>   nama   pembuang primer    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   129    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.414855,-7.766382,0
+          110.414687,-7.76639,0
+          110.414559,-7.766368,0
+          110.414521,-7.766297,0
+          110.414418,-7.766283,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang 3</name>
+      <description><![CDATA[pembuang 3    <br>       <br>   FID   34    <br>   nama   pembuang 3    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   132    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-6006</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.414978,-7.765985,0
+          110.414792,-7.765903,0
+          110.414783,-7.765769,0
+          110.414587,-7.765655,0
+          110.414587,-7.765206,0
+          110.414465,-7.765204,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang 4</name>
+      <description><![CDATA[pembuang 4    <br>       <br>   FID   35    <br>   nama   pembuang 4    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   137    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-5429</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.414194,-7.76826,0
+          110.414061,-7.76821,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang 1</name>
+      <description><![CDATA[pembuang 1    <br>       <br>   FID   36    <br>   nama   pembuang 1    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   133    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-5814</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.416419,-7.759872,0
+          110.416323,-7.75987,0
+          110.416166,-7.759942,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang 2</name>
+      <description><![CDATA[pembuang 2    <br>       <br>   FID   37    <br>   nama   pembuang 2    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   136    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.416701,-7.763341,0
+          110.416358,-7.763055,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Induk Pulodadi</name>
+      <description><![CDATA[Saluran Induk Pulodadi    <br>       <br>   FID   38    <br>   nama   Saluran Induk Pulodadi    <br>   nomenklatu   BPd2BPd3    <br>   id_di   26647    <br>   norec   30    <br>   k_aset   S01]]></description>
+      <styleUrl>#line-A52714-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.413761,-7.769543,0
+          110.413791,-7.769418,0
+          110.413807,-7.769352,0
+          110.413838,-7.769256,0
+          110.413942,-7.769103,0
+          110.41403,-7.76899,0
+          110.41406,-7.768922,0
+          110.414073,-7.768713,0
+          110.414055,-7.768494,0
+          110.414051,-7.768251,0
+          110.414069,-7.7679,0
+          110.414071,-7.767779,0
+          110.414062,-7.767659,0
+          110.414032,-7.76756,0
+          110.41397,-7.767363,0
+          110.413936,-7.767246,0
+          110.413939,-7.767195,0
+          110.413954,-7.767147,0
+          110.413994,-7.767073,0
+          110.414061,-7.766953,0
+          110.414186,-7.766724,0
+          110.414286,-7.766555,0
+          110.41436,-7.766415,0
+          110.414409,-7.766308,0
+          110.414439,-7.76623,0
+          110.414469,-7.766116,0
+          110.414494,-7.765644,0
+          110.41449,-7.765203,0
+          110.414511,-7.764736,0
+          110.414545,-7.764377,0
+          110.414552,-7.764301,0
+          110.414644,-7.764062,0
+          110.414659,-7.763989,0
+          110.414675,-7.763971,0
+          110.414702,-7.763936,0
+          110.414748,-7.763917,0
+          110.4148,-7.763906,0
+          110.414897,-7.763908,0
+          110.415079,-7.763905,0
+          110.415133,-7.76391,0
+          110.415201,-7.763898,0
+          110.415264,-7.763877,0
+          110.415325,-7.763846,0
+          110.415441,-7.763767,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Sekunder Pulodadi Kiri</name>
+      <description><![CDATA[Saluran Sekunder Pulodadi Kiri    <br>       <br>   FID   39    <br>   nama   Saluran Sekunder Pulodadi Kiri    <br>   nomenklatu   BPdKi4BPdKi5    <br>   id_di   26647    <br>   norec   1    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-01579B-6006</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.407254,-7.792302,0
+          110.407459,-7.792326,0
+          110.407507,-7.792321,0
+          110.407555,-7.792066,0
+          110.407546,-7.791973,0
+          110.407558,-7.791736,0
+          110.407614,-7.791273,0
+          110.40763,-7.790811,0
+          110.407655,-7.790357,0
+          110.40766,-7.789901,0
+          110.407694,-7.789481,0
+          110.407717,-7.78904,0
+          110.407712,-7.788955,0
+          110.407713,-7.788733,0
+          110.407722,-7.788656,0
+          110.407737,-7.788592,0
+          110.407833,-7.788393,0
+          110.407851,-7.788298,0
+          110.407865,-7.787841,0
+          110.407852,-7.78762,0
+          110.407838,-7.787522,0
+          110.407799,-7.787395,0
+          110.407832,-7.787241,0
+          110.407859,-7.787176,0
+          110.408069,-7.786496,0
+          110.408214,-7.786066,0
+          110.408284,-7.785863,0
+          110.408301,-7.785781,0
+          110.408259,-7.785777,0
+          110.408222,-7.785712,0
+          110.408204,-7.785647,0
+          110.408133,-7.785547,0
+          110.408031,-7.785434,0
+          110.407946,-7.785347,0
+          110.407908,-7.785297,0
+          110.407858,-7.78524,0
+          110.407833,-7.785205,0
+          110.407826,-7.785163,0
+          110.407847,-7.785096,0
+          110.407536,-7.784996,0
+          110.407326,-7.784912,0
+          110.407216,-7.784878,0
+          110.407186,-7.784856,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Induk Pulodadi</name>
+      <description><![CDATA[Saluran Induk Pulodadi    <br>       <br>   FID   40    <br>   nama   Saluran Induk Pulodadi    <br>   nomenklatu   BPd0BPd1    <br>   id_di   26647    <br>   norec   26    <br>   k_aset   S01]]></description>
+      <styleUrl>#line-A52714-6006</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.416168,-7.761173,0
+          110.416173,-7.76103,0
+          110.416181,-7.760827,0
+          110.41619,-7.760564,0
+          110.416196,-7.760462,0
+          110.416187,-7.760355,0
+          110.416196,-7.760199,0
+          110.416195,-7.760104,0
+          110.416194,-7.760035,0
+          110.416188,-7.759999,0
+          110.416148,-7.759929,0
+          110.41611,-7.759861,0
+          110.416009,-7.759743,0
+          110.415932,-7.759635,0
+          110.415841,-7.759514,0
+          110.41574,-7.759382,0
+          110.41552,-7.759101,0
+          110.415465,-7.759039,0
+          110.41541,-7.758945,0
+          110.415374,-7.758869,0
+          110.415347,-7.758811,0
+          110.415332,-7.758765,0
+          110.415334,-7.758745,0
+          110.415336,-7.758657,0
+          110.415341,-7.758589,0
+          110.415364,-7.758343,0
+          110.415384,-7.75811,0
+          110.415416,-7.757944,0
+          110.415454,-7.757735,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>teriser tambak bayan</name>
+      <description><![CDATA[teriser tambak bayan    <br>       <br>   FID   41    <br>   nama   teriser tambak bayan    <br>   nomenklatu   bpl    <br>   id_di   26647    <br>   norec   146    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-00855F-5621</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.415336,-7.776536,0
+          110.415544,-7.77543,0
+          110.415749,-7.774531,0
+          110.415773,-7.774339,0
+          110.415702,-7.774289,0
+          110.414416,-7.774223,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

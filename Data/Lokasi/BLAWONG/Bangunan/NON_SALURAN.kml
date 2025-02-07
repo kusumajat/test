@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NON_SALURAN</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>BB1</name>
+      <description><![CDATA[BB1    <br>       <br>   FID   0    <br>   nama   BB1    <br>   nomenklatu   BB1 8    <br>   id_di   26680    <br>   norec   614    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.361086,-7.897551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>bb17</name>
+      <description><![CDATA[bb17    <br>       <br>   FID   1    <br>   nama   bb17    <br>   nomenklatu   bb17    <br>   id_di   26680    <br>   norec   680    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.363051,-7.89673,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UPT Blawong</name>
+      <description><![CDATA[UPT Blawong    <br>       <br>   FID   2    <br>   nama   UPT Blawong    <br>   nomenklatu   K UPT BLWNG    <br>   id_di   26680    <br>   norec   389    <br>   k_aset   F01    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.392512,-7.878928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir</name>
+      <description><![CDATA[Akhir    <br>       <br>   FID   3    <br>   nama   Akhir    <br>   nomenklatu       <br>   id_di   26680    <br>   norec   919    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.331246,-7.937201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir</name>
+      <description><![CDATA[Akhir    <br>       <br>   FID   4    <br>   nama   Akhir    <br>   nomenklatu       <br>   id_di   26680    <br>   norec   920    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.331826,-7.939234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

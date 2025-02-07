@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NON_SALURANshp</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>awal</name>
+      <description><![CDATA[awal    <br>       <br>   FID   0    <br>   nama   awal    <br>   nomenklatu       <br>   id_di   26682    <br>   norec   3639    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          110.279968,-7.915497,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Drainase 2</name>
+      <description><![CDATA[Sadap Drainase 2    <br>       <br>   FID   1    <br>   nama   Sadap Drainase 2    <br>   nomenklatu       <br>   id_di   26682    <br>   norec   641    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.242598,-7.981864,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Awal Drainase bantulan</name>
+      <description><![CDATA[Awal Drainase bantulan    <br>       <br>   FID   2    <br>   nama   Awal Drainase bantulan    <br>   nomenklatu   bspbt    <br>   id_di   26682    <br>   norec   662    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          110.256771,-7.964183,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pertemuan drainase Krajan dg Gunung Kunci</name>
+      <description><![CDATA[Pertemuan drainase Krajan dg Gunung Kunci    <br>       <br>   FID   3    <br>   nama   Pertemuan drainase Krajan dg Gunung Kunci    <br>   nomenklatu   Tempuran    <br>   id_di   26682    <br>   norec   1353    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-01579B</styleUrl>
+      <Point>
+        <coordinates>
+          110.298471,-7.986589,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pertemuan drainase ceme dg Palihan</name>
+      <description><![CDATA[Pertemuan drainase ceme dg Palihan    <br>       <br>   FID   4    <br>   nama   Pertemuan drainase ceme dg Palihan    <br>   nomenklatu   Tempuran    <br>   id_di   26682    <br>   norec   1355    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.282436,-7.964384,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Pengambilan Sadap</name>
+      <description><![CDATA[Bangunan Pengambilan Sadap    <br>       <br>   FID   5    <br>   nama   Bangunan Pengambilan Sadap    <br>   nomenklatu   Pintu Pengambilan 1    <br>   id_di   26682    <br>   norec   1365    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.290019,-7.979933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Pengambilan Sadap</name>
+      <description><![CDATA[Bangunan Pengambilan Sadap    <br>       <br>   FID   6    <br>   nama   Bangunan Pengambilan Sadap    <br>   nomenklatu   Pintu Pengambilan 2    <br>   id_di   26682    <br>   norec   1366    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.287622,-7.990828,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Awal Drainase Kenteng</name>
+      <description><![CDATA[Awal Drainase Kenteng    <br>       <br>   FID   7    <br>   nama   Awal Drainase Kenteng    <br>   nomenklatu       <br>   id_di   26682    <br>   norec   1377    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          110.265505,-7.944996,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kantor UPT</name>
+      <description><![CDATA[Kantor UPT    <br>       <br>   FID   8    <br>   nama   Kantor UPT    <br>   nomenklatu   KUPT    <br>   id_di   26682    <br>   norec   1891    <br>   k_aset   F01    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.268011,-7.954015,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rumah Jaga Bendung Kamijoro</name>
+      <description><![CDATA[Rumah Jaga Bendung Kamijoro    <br>       <br>   FID   9    <br>   nama   Rumah Jaga Bendung Kamijoro    <br>   nomenklatu   RJBKj    <br>   id_di   26682    <br>   norec   2087    <br>   k_aset   F02    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.266419,-7.878151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rumah Jaga Bendung Pijenan</name>
+      <description><![CDATA[Rumah Jaga Bendung Pijenan    <br>       <br>   FID   10    <br>   nama   Rumah Jaga Bendung Pijenan    <br>   nomenklatu   Rj B Pj    <br>   id_di   26682    <br>   norec   1892    <br>   k_aset   F01    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.296573,-7.898702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Gunung Kunci 2B</name>
+      <description><![CDATA[Tersier Gunung Kunci 2B    <br>       <br>   FID   11    <br>   nama   Tersier Gunung Kunci 2B    <br>   nomenklatu   0    <br>   id_di   26682    <br>   norec   2179    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          110.289205,-8.001844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Gunung Kunci 2B</name>
+      <description><![CDATA[Tersier Gunung Kunci 2B    <br>       <br>   FID   12    <br>   nama   Tersier Gunung Kunci 2B    <br>   nomenklatu   0    <br>   id_di   26682    <br>   norec   2180    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290163,-8.00403,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Palihan 2</name>
+      <description><![CDATA[Tersier Palihan 2    <br>       <br>   FID   13    <br>   nama   Tersier Palihan 2    <br>   nomenklatu   0    <br>   id_di   26682    <br>   norec   2190    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.297317,-7.965464,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pengukur Debit</name>
+      <description><![CDATA[Pengukur Debit    <br>       <br>   FID   14    <br>   nama   Pengukur Debit    <br>   nomenklatu   0    <br>   id_di   26682    <br>   norec   2191    <br>   k_aset   C01    <br>   icon   004A]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.297407,-7.965667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>awal drainase tirto</name>
+      <description><![CDATA[awal drainase tirto    <br>       <br>   FID   15    <br>   nama   awal drainase tirto    <br>   nomenklatu   1    <br>   id_di   26682    <br>   norec   2398    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.285274,-7.927268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>pertemuan dgn pembuang</name>
+      <description><![CDATA[pertemuan dgn pembuang    <br>       <br>   FID   16    <br>   nama   pertemuan dgn pembuang    <br>   nomenklatu   bnj    <br>   id_di   26682    <br>   norec   2415    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          110.259733,-7.943881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier BP 4</name>
+      <description><![CDATA[Tersier BP 4    <br>       <br>   FID   17    <br>   nama   Tersier BP 4    <br>   nomenklatu   0    <br>   id_di   26682    <br>   norec   2360    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          110.263823,-7.953505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pertemuan drainase Gunung Kunci dg Greges</name>
+      <description><![CDATA[Pertemuan drainase Gunung Kunci dg Greges    <br>       <br>   FID   18    <br>   nama   Pertemuan drainase Gunung Kunci dg Greges    <br>   nomenklatu   Tempuran    <br>   id_di   26682    <br>   norec   1357    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-01579B</styleUrl>
+      <Point>
+        <coordinates>
+          110.299237,-7.992697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ruang Mesin Bendung Kamijoro</name>
+      <description><![CDATA[Ruang Mesin Bendung Kamijoro    <br>       <br>   FID   19    <br>   nama   Ruang Mesin Bendung Kamijoro    <br>   nomenklatu   RM BKj    <br>   id_di   26682    <br>   norec   2088    <br>   k_aset   F03    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.266419,-7.878151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Drainase Bugelwaru 1</name>
+      <description><![CDATA[Sadap Drainase Bugelwaru 1    <br>       <br>   FID   20    <br>   nama   Sadap Drainase Bugelwaru 1    <br>   nomenklatu   Pintu pengambilan 2    <br>   id_di   26682    <br>   norec   412    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.281849,-7.999851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Pengambilan Sadap</name>
+      <description><![CDATA[Bangunan Pengambilan Sadap    <br>       <br>   FID   21    <br>   nama   Bangunan Pengambilan Sadap    <br>   nomenklatu   Pintu Pengambilan 3    <br>   id_di   26682    <br>   norec   1367    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.288365,-7.993566,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Awal Kenteng</name>
+      <description><![CDATA[Awal Kenteng    <br>       <br>   FID   22    <br>   nama   Awal Kenteng    <br>   nomenklatu       <br>   id_di   26682    <br>   norec   3560    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          110.263572,-7.954961,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Pengambilan Sadap</name>
+      <description><![CDATA[Bangunan Pengambilan Sadap    <br>       <br>   FID   23    <br>   nama   Bangunan Pengambilan Sadap    <br>   nomenklatu   Sadap Tunjungan    <br>   id_di   26682    <br>   norec   1378    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.262491,-7.952392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Drainase Bugelwaru 1</name>
+      <description><![CDATA[Sadap Drainase Bugelwaru 1    <br>       <br>   FID   24    <br>   nama   Sadap Drainase Bugelwaru 1    <br>   nomenklatu   Pintu Pengambilan 1    <br>   id_di   26682    <br>   norec   410    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.280012,-7.989884,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

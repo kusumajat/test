@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Saluran</name>
+    <Style id="line-097138-4000-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-097138-4000-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-097138-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-097138-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-097138-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1A237E-5000-normal">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-1A237E-5000-highlight">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-1A237E-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1A237E-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1A237E-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-757575-4000-normal">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-757575-4000-highlight">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-757575-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-757575-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-757575-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-A80000-5000-normal">
+      <LineStyle>
+        <color>ff0000a8</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-A80000-5000-highlight">
+      <LineStyle>
+        <color>ff0000a8</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-A80000-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-A80000-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-A80000-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Saluran Pembuang Goser</name>
+      <description><![CDATA[Saluran Pembuang Goser    <br>       <br>   FID   0    <br>   nama   Saluran Pembuang Goser    <br>   nomenklatu   1    <br>   id_di   26663    <br>   norec   32    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253958,-7.794991,0
+          110.254023,-7.794759,0
+          110.254097,-7.79445,0
+          110.254243,-7.793728,0
+          110.254318,-7.79333,0
+          110.25384,-7.793237,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Salluran Pembuang Van Der Wigk</name>
+      <description><![CDATA[Salluran Pembuang Van Der Wigk    <br>       <br>   FID   1    <br>   nama   Salluran Pembuang Van Der Wigk    <br>   nomenklatu   1    <br>   id_di   26663    <br>   norec   23    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250606,-7.78486,0
+          110.250968,-7.784932,0
+          110.251291,-7.785001,0
+          110.251437,-7.785025,0
+          110.251615,-7.785061,0
+          110.251703,-7.785081,0
+          110.251739,-7.785084,0
+          110.25177,-7.785077,0
+          110.251819,-7.785052,0
+          110.251873,-7.784992,0
+          110.251919,-7.784957,0
+          110.251995,-7.784927,0
+          110.252301,-7.784922,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Primer ponggok 2</name>
+      <description><![CDATA[Primer ponggok 2    <br>       <br>   FID   2    <br>   nama   Primer ponggok 2    <br>   nomenklatu   bpg1    <br>   id_di   26663    <br>   norec   112    <br>   k_aset   S01]]></description>
+      <styleUrl>#line-A80000-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256453,-7.780247,0
+          110.256634,-7.779908,0
+          110.256796,-7.779552,0
+          110.256905,-7.779135,0
+          110.257013,-7.778692,0
+          110.257111,-7.778704,0
+          110.257199,-7.778518,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Klampis 3</name>
+      <description><![CDATA[Tersier Klampis 3    <br>       <br>   FID   3    <br>   nama   Tersier Klampis 3    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   15    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.251354,-7.785004,0
+          110.251386,-7.784802,0
+          110.251492,-7.784365,0
+          110.251731,-7.784054,0
+          110.251998,-7.783708,0
+          110.252278,-7.78334,0
+          110.252397,-7.783197,0
+          110.252478,-7.783144,0
+          110.252625,-7.783057,0
+          110.253016,-7.782854,0
+          110.253044,-7.782843,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Sekunder Kanan r2</name>
+      <description><![CDATA[Saluran Sekunder Kanan r2    <br>       <br>   FID   4    <br>   nama   Saluran Sekunder Kanan r2    <br>   nomenklatu   bpgka    <br>   id_di   26663    <br>   norec   21    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.25328,-7.7823,0
+          110.253363,-7.78199,0
+          110.253407,-7.781851,0
+          110.253409,-7.781851,0
+          110.253627,-7.781733,0
+          110.254217,-7.781409,0
+          110.254754,-7.781122,0
+          110.25516,-7.780907,0
+          110.255397,-7.780778,0
+          110.25545,-7.780749,0
+          110.255992,-7.780476,0
+          110.25618,-7.780381,0
+          110.256197,-7.780373,0
+          110.256382,-7.780266,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder  kanan r3</name>
+      <description><![CDATA[sekunder  kanan r3    <br>       <br>   FID   5    <br>   nama   sekunder  kanan r3    <br>   nomenklatu   bpgka    <br>   id_di   26663    <br>   norec   119    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253049,-7.782847,0
+          110.253084,-7.782744,0
+          110.253115,-7.782658,0
+          110.253128,-7.782615,0
+          110.253287,-7.782295,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Primer Kedungbanteng</name>
+      <description><![CDATA[Tersier Primer Kedungbanteng    <br>       <br>   FID   6    <br>   nama   Tersier Primer Kedungbanteng    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   20    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257337,-7.787182,0
+          110.257349,-7.786965,0
+          110.257393,-7.786523,0
+          110.25738,-7.786068,0
+          110.256986,-7.785963,0
+          110.256533,-7.785904,0
+          110.256257,-7.784827,0
+          110.257023,-7.780092,0
+          110.25709,-7.780046,0
+          110.25709,-7.779936,0
+          110.257121,-7.779016,0
+          110.257201,-7.778514,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sangubanyu 4</name>
+      <description><![CDATA[Tersier Sangubanyu 4    <br>       <br>   FID   7    <br>   nama   Tersier Sangubanyu 4    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   29    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257015,-7.794679,0
+          110.257105,-7.794212,0
+          110.257205,-7.793759,0
+          110.257283,-7.793307,0
+          110.257363,-7.792863,0
+          110.257475,-7.79217,0
+          110.257542,-7.791823,0
+          110.257587,-7.791476,0
+          110.257609,-7.791108,0
+          110.257655,-7.790646,0
+          110.257669,-7.789781,0
+          110.257657,-7.789334,0
+          110.257637,-7.788952,0
+          110.257377,-7.788938,0
+          110.257296,-7.78893,0
+          110.257256,-7.788896,0
+          110.25724,-7.788295,0
+          110.25724,-7.78806,0
+          110.257015,-7.788035,0
+          110.256099,-7.787939,0
+          110.255833,-7.787911,0
+          110.255915,-7.787493,0
+          110.255666,-7.787433,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sangubanyu 3</name>
+      <description><![CDATA[Tersier Sangubanyu 3    <br>       <br>   FID   8    <br>   nama   Tersier Sangubanyu 3    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   30    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255855,-7.791048,0
+          110.25595,-7.79059,0
+          110.256305,-7.789288,0
+          110.256321,-7.788901,0
+          110.255453,-7.7887,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sangubanyu 2</name>
+      <description><![CDATA[Tersier Sangubanyu 2    <br>       <br>   FID   9    <br>   nama   Tersier Sangubanyu 2    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   28    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255255,-7.789391,0
+          110.255447,-7.788696,0
+          110.255496,-7.788481,0
+          110.255639,-7.787599,0
+          110.255676,-7.787433,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Pembuang GoserArgosari</name>
+      <description><![CDATA[Tersier Pembuang GoserArgosari    <br>       <br>   FID   10    <br>   nama   Tersier Pembuang GoserArgosari    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   26    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255815,-7.798288,0
+          110.255863,-7.797714,0
+          110.255997,-7.797272,0
+          110.25602,-7.797208,0
+          110.256281,-7.796901,0
+          110.256584,-7.796569,0
+          110.256866,-7.796226,0
+          110.256997,-7.796067,0
+          110.257068,-7.795818,0
+          110.257221,-7.795317,0
+          110.257245,-7.795274,0
+          110.256995,-7.795001,0
+          110.256776,-7.794767,0
+          110.256539,-7.794519,0
+          110.256061,-7.794007,0
+          110.255993,-7.793932,0
+          110.255974,-7.793896,0
+          110.255997,-7.793809,0
+          110.25604,-7.793626,0
+          110.256143,-7.793152,0
+          110.256237,-7.792687,0
+          110.25631,-7.792249,0
+          110.256399,-7.791817,0
+          110.256426,-7.791695,0
+          110.256391,-7.791578,0
+          110.256228,-7.791543,0
+          110.255899,-7.791466,0
+          110.255679,-7.791419,0
+          110.255442,-7.791366,0
+          110.255022,-7.791281,0
+          110.254603,-7.791179,0
+          110.254325,-7.791112,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sangubanyu 2</name>
+      <description><![CDATA[Tersier Sangubanyu 2    <br>       <br>   FID   11    <br>   nama   Tersier Sangubanyu 2    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   27    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255666,-7.787429,0
+          110.255373,-7.787366,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sangubanyu 1</name>
+      <description><![CDATA[Tersier Sangubanyu 1    <br>       <br>   FID   12    <br>   nama   Tersier Sangubanyu 1    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   34    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254266,-7.791105,0
+          110.254354,-7.790781,0
+          110.254416,-7.790559,0
+          110.254469,-7.79034,0
+          110.254587,-7.789904,0
+          110.254645,-7.789653,0
+          110.25468,-7.789545,0
+          110.25472,-7.789474,0
+          110.254774,-7.789277,0
+          110.254814,-7.789079,0
+          110.254945,-7.788615,0
+          110.255114,-7.787994,0
+          110.255254,-7.787409,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Goser 2</name>
+      <description><![CDATA[Tersier Goser 2    <br>       <br>   FID   13    <br>   nama   Tersier Goser 2    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   19    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.251909,-7.802597,0
+          110.252074,-7.802078,0
+          110.25219,-7.801538,0
+          110.252471,-7.800479,0
+          110.253033,-7.798361,0
+          110.253187,-7.79793,0
+          110.25332,-7.797502,0
+          110.253567,-7.796658,0
+          110.254064,-7.794949,0
+          110.254109,-7.794768,0
+          110.254143,-7.79462,0
+          110.254173,-7.794439,0
+          110.254404,-7.793275,0
+          110.254413,-7.793152,0
+          110.254531,-7.792724,0
+          110.254602,-7.792283,0
+          110.254709,-7.791835,0
+          110.254731,-7.791573,0
+          110.254693,-7.791432,0
+          110.254593,-7.791261,0
+          110.254496,-7.791232,0
+          110.254307,-7.79119,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Moyudan 1</name>
+      <description><![CDATA[Tersier Moyudan 1    <br>       <br>   FID   14    <br>   nama   Tersier Moyudan 1    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   24    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249519,-7.791338,0
+          110.249578,-7.79128,0
+          110.24962,-7.79124,0
+          110.249949,-7.790972,0
+          110.25032,-7.790682,0
+          110.250561,-7.790482,0
+          110.250674,-7.790395,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Kukusan</name>
+      <description><![CDATA[Tersier Kukusan    <br>       <br>   FID   15    <br>   nama   Tersier Kukusan    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   33    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255253,-7.787412,0
+          110.255273,-7.787353,0
+          110.255313,-7.787073,0
+          110.255373,-7.786653,0
+          110.255432,-7.786318,0
+          110.255479,-7.785995,0
+          110.255582,-7.785343,0
+          110.255788,-7.784029,0
+          110.25584,-7.78378,0
+          110.255884,-7.78352,0
+          110.255939,-7.783053,0
+          110.256026,-7.782462,0
+          110.256073,-7.782233,0
+          110.256158,-7.781638,0
+          110.256293,-7.780856,0
+          110.256346,-7.780546,0
+          110.256374,-7.780381,0
+          110.256391,-7.78032,0
+          110.25639,-7.780266,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder kanan r4</name>
+      <description><![CDATA[sekunder kanan r4    <br>       <br>   FID   16    <br>   nama   sekunder kanan r4    <br>   nomenklatu   bpgka    <br>   id_di   26663    <br>   norec   118    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.25067,-7.790388,0
+          110.250678,-7.790341,0
+          110.25078,-7.790008,0
+          110.251751,-7.786532,0
+          110.252904,-7.783205,0
+          110.253025,-7.782934,0
+          110.25305,-7.782842,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Goser</name>
+      <description><![CDATA[Tersier Goser     <br>       <br>   FID   17    <br>   nama   Tersier Goser    <br>   nomenklatu   1    <br>   id_di   26663    <br>   norec   31    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253497,-7.794888,0
+          110.253693,-7.793928,0
+          110.253897,-7.792966,0
+          110.254098,-7.792008,0
+          110.254337,-7.791059,0
+          110.254585,-7.790171,0
+          110.254856,-7.789249,0
+          110.255369,-7.787365,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Klampis 2</name>
+      <description><![CDATA[Tersier Klampis 2    <br>       <br>   FID   18    <br>   nama   Tersier Klampis 2    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   16    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253634,-7.786986,0
+          110.253392,-7.786944,0
+          110.252947,-7.786842,0
+          110.2525,-7.786747,0
+          110.252092,-7.786662,0
+          110.252261,-7.786064,0
+          110.252424,-7.785426,0
+          110.252851,-7.783859,0
+          110.252986,-7.783381,0
+          110.253101,-7.782971,0
+          110.253198,-7.782621,0
+          110.253278,-7.782307,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Moyudan 2</name>
+      <description><![CDATA[Tersier Moyudan 2    <br>       <br>   FID   19    <br>   nama   Tersier Moyudan 2    <br>   nomenklatu       <br>   id_di   26663    <br>   norec   25    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.25048,-7.792551,0
+          110.250515,-7.792322,0
+          110.25076,-7.791446,0
+          110.250879,-7.791035,0
+          110.251013,-7.790593,0
+          110.251023,-7.790534,0
+          110.251019,-7.79048,0
+          110.250682,-7.790393,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Sekunder Kiri Ponggok</name>
+      <description><![CDATA[Saluran Sekunder Kiri Ponggok    <br>       <br>   FID   20    <br>   nama   Saluran Sekunder Kiri Ponggok    <br>   nomenklatu   1    <br>   id_di   26663    <br>   norec   7    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256452,-7.780247,0
+          110.256461,-7.780313,0
+          110.255892,-7.783833,0
+          110.255608,-7.785592,0
+          110.255324,-7.787352,0
+          110.255368,-7.787366,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder  kanan 1</name>
+      <description><![CDATA[sekunder  kanan 1    <br>       <br>   FID   21    <br>   nama   sekunder  kanan 1    <br>   nomenklatu   bpgka    <br>   id_di   26663    <br>   norec   117    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256382,-7.780266,0
+          110.256452,-7.780248,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Primer Ponggok</name>
+      <description><![CDATA[Saluran Primer Ponggok    <br>       <br>   FID   22    <br>   nama   Saluran Primer Ponggok    <br>   nomenklatu   BPg1BPg2    <br>   id_di   26663    <br>   norec   2    <br>   k_aset   S01]]></description>
+      <styleUrl>#line-A80000-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257201,-7.778518,0
+          110.257242,-7.778428,0
+          110.257328,-7.778336,0
+          110.257464,-7.778238,0
+          110.257725,-7.778021,0
+          110.257938,-7.777819,0
+          110.258137,-7.777634,0
+          110.258273,-7.777454,0
+          110.258316,-7.77711,0
+          110.258346,-7.776812,0
+          110.25838,-7.7766,0
+          110.258395,-7.776501,0
+          110.258426,-7.776416,0
+          110.25845,-7.776336,0
+          110.258494,-7.776213,0
+          110.258652,-7.775818,0
+          110.258778,-7.775501,0
+          110.258855,-7.775319,0
+          110.258878,-7.775231,0
+          110.258893,-7.775059,0
+          110.258872,-7.774765,0
+          110.25886,-7.774587,0
+          110.258831,-7.774485,0
+          110.258773,-7.774371,0
+          110.258691,-7.774253,0
+          110.258633,-7.774149,0
+          110.25863,-7.774144,0
+          110.258567,-7.774018,0
+          110.258531,-7.773919,0
+          110.258535,-7.773799,0
+          110.258533,-7.773478,0
+          110.258541,-7.773339,0
+          110.258548,-7.773045,0
+          110.258546,-7.772897,0
+          110.258535,-7.77278,0
+          110.258531,-7.77264,0
+          110.25853,-7.772495,0
+          110.25856,-7.772381,0
+          110.258642,-7.772263,0
+          110.258673,-7.772203,0
+          110.258671,-7.772077,0
+          110.258665,-7.771956,0
+          110.258637,-7.771872,0
+          110.258589,-7.771781,0
+          110.258542,-7.771723,0
+          110.258523,-7.77168,0
+          110.258518,-7.771636,0
+          110.258525,-7.7716,0
+          110.258544,-7.771557,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

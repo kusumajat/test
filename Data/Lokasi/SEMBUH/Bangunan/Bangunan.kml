@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bangunan</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bendung.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bendung.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Bangunan Sadap 405</name>
+      <description><![CDATA[Bangunan Sadap 405    <br>       <br>   FID   0    <br>   nama   Bangunan Sadap 405    <br>   nomenklatu   BSb6    <br>   id_di   26662    <br>   norec   17    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.291379,-7.787703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   1    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BSbKa2    <br>   id_di   26662    <br>   norec   19    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.290925,-7.785931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>akhir</name>
+      <description><![CDATA[akhir    <br>       <br>   FID   2    <br>   nama   akhir    <br>   nomenklatu   bstsb1ka    <br>   id_di   26662    <br>   norec   100    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          110.291264,-7.782204,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap 330</name>
+      <description><![CDATA[Bangunan Sadap 330    <br>       <br>   FID   3    <br>   nama   Bangunan Sadap 330    <br>   nomenklatu   BSb3    <br>   id_di   26662    <br>   norec   11    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.290531,-7.784793,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>jembatan kab 118</name>
+      <description><![CDATA[jembatan kab 118    <br>       <br>   FID   4    <br>   nama   jembatan kab 118    <br>   nomenklatu   BSb5b    <br>   id_di   26662    <br>   norec   109    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.292137,-7.78544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempat Cuci ki</name>
+      <description><![CDATA[Tempat Cuci ki    <br>       <br>   FID   5    <br>   nama   Tempat Cuci ki    <br>   nomenklatu   BSb3e    <br>   id_di   26662    <br>   norec   10    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290449,-7.784601,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempat Cuci 303</name>
+      <description><![CDATA[Tempat Cuci 303    <br>       <br>   FID   6    <br>   nama   Tempat Cuci 303    <br>   nomenklatu   0    <br>   id_di   26662    <br>   norec   111    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.29045,-7.784578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempat Cuci 215</name>
+      <description><![CDATA[Tempat Cuci 215    <br>       <br>   FID   7    <br>   nama   Tempat Cuci 215    <br>   nomenklatu   BSb3a    <br>   id_di   26662    <br>   norec   6    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          110.290422,-7.783812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempat Cuci 231</name>
+      <description><![CDATA[Tempat Cuci 231    <br>       <br>   FID   8    <br>   nama   Tempat Cuci 231    <br>   nomenklatu   BSb3b    <br>   id_di   26662    <br>   norec   7    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290388,-7.783938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempat Cuci 336</name>
+      <description><![CDATA[Tempat Cuci 336    <br>       <br>   FID   9    <br>   nama   Tempat Cuci 336    <br>   nomenklatu   BSb4a    <br>   id_di   26662    <br>   norec   12    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290557,-7.784887,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goronggorong 362</name>
+      <description><![CDATA[Goronggorong 362    <br>       <br>   FID   10    <br>   nama   Goronggorong 362    <br>   nomenklatu   0    <br>   id_di   26662    <br>   norec   112    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290689,-7.785028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap 187</name>
+      <description><![CDATA[Bangunan Sadap 187    <br>       <br>   FID   11    <br>   nama   Bangunan Sadap 187    <br>   nomenklatu   BSb2    <br>   id_di   26662    <br>   norec   5    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.290489,-7.783499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goronggorong 263</name>
+      <description><![CDATA[Goronggorong 263    <br>       <br>   FID   12    <br>   nama   Goronggorong 263    <br>   nomenklatu   BSb3c    <br>   id_di   26662    <br>   norec   8    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290368,-7.784235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempat Cuci 297</name>
+      <description><![CDATA[Tempat Cuci 297    <br>       <br>   FID   13    <br>   nama   Tempat Cuci 297    <br>   nomenklatu   BSb3d    <br>   id_di   26662    <br>   norec   9    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290373,-7.784502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dam Sembuh</name>
+      <description><![CDATA[Dam Sembuh    <br>       <br>   FID   14    <br>   nama   Dam Sembuh    <br>   nomenklatu   Dam Sembuh    <br>   id_di   26662    <br>   norec   1    <br>   k_aset   B01    <br>   icon   0063]]></description>
+      <styleUrl>#icon-1502-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.291508,-7.782318,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap 158</name>
+      <description><![CDATA[Bangunan Sadap 158    <br>       <br>   FID   15    <br>   nama   Bangunan Sadap 158    <br>   nomenklatu   BSb5    <br>   id_di   26662    <br>   norec   16    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.292341,-7.785692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Ukur</name>
+      <description><![CDATA[Bangunan Ukur    <br>       <br>   FID   16    <br>   nama   Bangunan Ukur    <br>   nomenklatu   BSbKa1a    <br>   id_di   26662    <br>   norec   14    <br>   k_aset   C01    <br>   icon   004A]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.291041,-7.785231,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempat Cuci 144</name>
+      <description><![CDATA[Tempat Cuci 144    <br>       <br>   FID   17    <br>   nama   Tempat Cuci 144    <br>   nomenklatu   BSb2b    <br>   id_di   26662    <br>   norec   4    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290563,-7.78322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jembatan Desa 036</name>
+      <description><![CDATA[Jembatan Desa 036    <br>       <br>   FID   18    <br>   nama   Jembatan Desa 036    <br>   nomenklatu   BSb5a    <br>   id_di   26662    <br>   norec   15    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.291427,-7.785247,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap 087</name>
+      <description><![CDATA[Sadap 087    <br>       <br>   FID   19    <br>   nama   Sadap 087    <br>   nomenklatu   BSb1    <br>   id_di   26662    <br>   norec   2    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.290944,-7.782772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goronggorong 124</name>
+      <description><![CDATA[Goronggorong 124    <br>       <br>   FID   20    <br>   nama   Goronggorong 124    <br>   nomenklatu   BSb2a    <br>   id_di   26662    <br>   norec   3    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290703,-7.783065,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jembatan Desa</name>
+      <description><![CDATA[Jembatan Desa    <br>       <br>   FID   21    <br>   nama   Jembatan Desa    <br>   nomenklatu   BSbKa2a    <br>   id_di   26662    <br>   norec   20    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290926,-7.785979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap 403</name>
+      <description><![CDATA[Bangunan Sadap 403    <br>       <br>   FID   22    <br>   nama   Bangunan Sadap 403    <br>   nomenklatu   BSb4    <br>   id_di   26662    <br>   norec   13    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.291053,-7.785133,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

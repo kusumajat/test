@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NON_SALURAN</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-757575-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-757575-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-757575">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-757575-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-757575-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Tersier Bendo 5 Kiri 1a1b1b1</name>
+      <description><![CDATA[Tersier Bendo 5 Kiri 1a1b1b1    <br>       <br>   FID   0    <br>   nama   Tersier Bendo 5 Kiri 1a1b1b1    <br>   nomenklatu       <br>   id_di   26679    <br>   norec   809    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.315571,-7.901858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Karasan 2 Ka 1 b 1 a</name>
+      <description><![CDATA[Tersier Karasan 2 Ka 1 b 1 a    <br>       <br>   FID   1    <br>   nama   Tersier Karasan 2 Ka 1 b 1 a    <br>   nomenklatu       <br>   id_di   26679    <br>   norec   955    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.321874,-7.917679,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier BMk 6c 1</name>
+      <description><![CDATA[Tersier BMk 6c 1    <br>       <br>   FID   2    <br>   nama   Tersier BMk 6c 1    <br>   nomenklatu       <br>   id_di   26679    <br>   norec   674    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.340076,-7.897335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Bendo 5 Kanan 1a</name>
+      <description><![CDATA[Tersier Bendo 5 Kanan 1a    <br>       <br>   FID   3    <br>   nama   Tersier Bendo 5 Kanan 1a    <br>   nomenklatu       <br>   id_di   26679    <br>   norec   837    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.316259,-7.890185,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Bendo 5 Kanan 1a</name>
+      <description><![CDATA[Tersier Bendo 5 Kanan 1a    <br>       <br>   FID   4    <br>   nama   Tersier Bendo 5 Kanan 1a    <br>   nomenklatu       <br>   id_di   26679    <br>   norec   838    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.316259,-7.890185,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saluran tersier pembuang Niten 1</name>
+      <description><![CDATA[Saluran tersier pembuang Niten 1    <br>       <br>   FID   5    <br>   nama   Saluran tersier pembuang Niten 1    <br>   nomenklatu       <br>   id_di   26679    <br>   norec   1030    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.336455,-7.885686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kantor Pengairan UPT DI Pendowo</name>
+      <description><![CDATA[Kantor Pengairan UPT DI Pendowo    <br>       <br>   FID   6    <br>   nama   Kantor Pengairan UPT DI Pendowo    <br>   nomenklatu   KUPT    <br>   id_di   26679    <br>   norec   425    <br>   k_aset   F01    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          110.316532,-7.917474,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>kantor Upt</name>
+      <description><![CDATA[kantor Upt    <br>       <br>   FID   7    <br>   nama   kantor Upt    <br>   nomenklatu   PDUPT1    <br>   id_di   26679    <br>   norec   464    <br>   k_aset   F11    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-880E4F</styleUrl>
+      <Point>
+        <coordinates>
+          110.329569,-7.853717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B Mk 13</name>
+      <description><![CDATA[B Mk 13    <br>       <br>   FID   8    <br>   nama   B Mk 13    <br>   nomenklatu   B Mk 13    <br>   id_di   26679    <br>   norec   619    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.335128,-7.884743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>pembuang kali lanang</name>
+      <description><![CDATA[pembuang kali lanang    <br>       <br>   FID   9    <br>   nama   pembuang kali lanang    <br>   nomenklatu       <br>   id_di   26679    <br>   norec   527    <br>   k_aset   S17    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.29004,-7.952696,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>pembuang kali lanang</name>
+      <description><![CDATA[pembuang kali lanang    <br>       <br>   FID   10    <br>   nama   pembuang kali lanang    <br>   nomenklatu       <br>   id_di   26679    <br>   norec   547    <br>   k_aset   S17    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.302258,-7.926526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier</name>
+      <description><![CDATA[Tersier    <br>       <br>   FID   11    <br>   nama   Tersier    <br>   nomenklatu   0    <br>   id_di   26679    <br>   norec   572    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.330262,-7.866283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier</name>
+      <description><![CDATA[Tersier    <br>       <br>   FID   12    <br>   nama   Tersier    <br>   nomenklatu   0    <br>   id_di   26679    <br>   norec   571    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.330262,-7.866283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier BPd 4 Cabang 4</name>
+      <description><![CDATA[Akhir Tersier BPd 4 Cabang 4    <br>       <br>   FID   13    <br>   nama   Akhir Tersier BPd 4 Cabang 4    <br>   nomenklatu   0    <br>   id_di   26679    <br>   norec   606    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-757575</styleUrl>
+      <Point>
+        <coordinates>
+          110.326082,-7.881212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Karasan 2 Ki 1</name>
+      <description><![CDATA[Tersier Karasan 2 Ki 1    <br>       <br>   FID   14    <br>   nama   Tersier Karasan 2 Ki 1    <br>   nomenklatu       <br>   id_di   26679    <br>   norec   942    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.326935,-7.907062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

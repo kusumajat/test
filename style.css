@@ -1,0 +1,172 @@
+/* Reset dasar */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  overflow: hidden;
+}
+
+/* Navbar */
+.navbar {
+  z-index: 1001;
+}
+
+/* Sidebar */
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: var(--navbar-height);
+  bottom: 0;
+  width: 300px;
+  background: #ffffff;
+  padding: 20px;
+  overflow-y: auto;
+  box-shadow: 2px 0 15px rgba(0,0,0,0.1);
+  z-index: 1100; /* Sidebar selalu di atas overlay */
+  transition: left 0.3s ease;
+}
+
+/* Judul Sidebar */
+.sidebar-title {
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+}
+
+/* Filter section */
+.filter-section {
+  margin-bottom: 25px;
+  padding: 15px;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.filter-section h6 {
+  color: #34495e;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Filter item */
+.filter-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 8px;
+  background: white;
+  border-radius: 5px;
+}
+
+.filter-check {
+  margin-right: 10px;
+}
+
+/* Basemap filter */
+.basemap-filter {
+  display: grid;
+  gap: 10px;
+}
+
+.basemap-option {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.basemap-option:hover {
+  border-color: #3498db;
+  background: #f8f9fa;
+}
+
+/* Kategori filter (lokasi) */
+.category-filter {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.category-btn {
+  padding: 8px;
+  border: 1px solid #ddd;
+  background: white;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+
+.category-btn.active {
+  background: #3498db;
+  color: white;
+  border-color: #3498db;
+}
+
+/* Peta */
+#map {
+  height: calc(100vh - var(--navbar-height));
+  margin-left: 300px;
+  overflow: hidden;
+}
+
+/* CSS variable untuk tinggi navbar */
+:root {
+  --navbar-height: 56px;
+}
+
+/* Responsive: Sidebar off-canvas untuk layar kecil */
+@media (max-width: 992px) {
+  .sidebar {
+    left: -300px;
+  }
+  .sidebar.active {
+    left: 0;
+  }
+  /* Peta full-width di layar kecil */
+  #map {
+    margin-left: 0;
+  }
+}
+
+/* Overlay untuk sidebar (opsional, jika diperlukan) */
+/* Jika Anda ingin memanfaatkan overlay, pastikan overlay tidak menutupi tombol toggle */
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  top: var(--navbar-height);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.4);
+  z-index: 1050;
+}
+.sidebar-overlay.active {
+  display: block;
+}
+
+/* Tombol Toggle Sidebar (Floating) */
+.sidebar-toggle-btn {
+  position: fixed;
+  top: calc(var(--navbar-height) + 80px);
+  left: 10.2px;
+  z-index: 1049;  /* Pastikan tombol di atas sidebar */
+  border: none;
+  background-color: #3498db;
+  color: white;
+  padding: 9.5px;
+  border-radius: 4px;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+/* Styling untuk popup */
+.leaflet-popup-content {
+  min-width: 200px;
+}
+
+
+

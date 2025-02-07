@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NON_SALURAN</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1892-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1892-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1892-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1892-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1892-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>sp kerjo 2</name>
+      <description><![CDATA[sp kerjo 2    <br>       <br>   FID   0    <br>   nama   sp kerjo 2    <br>   nomenklatu   1    <br>   id_di   52138    <br>   norec   329    <br>   k_aset   B07    <br>   icon   0043]]></description>
+      <styleUrl>#icon-1892-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.708457,-7.973463,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sumur Pompa Blarangan 5</name>
+      <description><![CDATA[Tersier Sumur Pompa Blarangan 5    <br>       <br>   FID   1    <br>   nama   Tersier Sumur Pompa Blarangan 5    <br>   nomenklatu   0    <br>   id_di   52138    <br>   norec   1126    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.688598,-7.980149,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sumur Pompa Sidodadi 2</name>
+      <description><![CDATA[Tersier Sumur Pompa Sidodadi 2    <br>       <br>   FID   2    <br>   nama   Tersier Sumur Pompa Sidodadi 2    <br>   nomenklatu   0    <br>   id_di   52138    <br>   norec   1128    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.687693,-7.981558,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier SP Ngipak 2</name>
+      <description><![CDATA[Tersier SP Ngipak 2    <br>       <br>   FID   3    <br>   nama   Tersier SP Ngipak 2    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   1170    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.670227,-7.948931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak Kontrol SP Kerjo</name>
+      <description><![CDATA[Bak Kontrol SP Kerjo    <br>       <br>   FID   4    <br>   nama   Bak Kontrol SP Kerjo    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   749    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.706367,-7.971777,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak kontrol SP Kerjo</name>
+      <description><![CDATA[Bak kontrol SP Kerjo    <br>       <br>   FID   5    <br>   nama   Bak kontrol SP Kerjo    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   750    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.70877,-7.972386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak Kontrol SP Kerjo</name>
+      <description><![CDATA[Bak Kontrol SP Kerjo    <br>       <br>   FID   6    <br>   nama   Bak Kontrol SP Kerjo    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   751    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.708422,-7.973574,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak Kontrol SP Kerjo</name>
+      <description><![CDATA[Bak Kontrol SP Kerjo    <br>       <br>   FID   7    <br>   nama   Bak Kontrol SP Kerjo    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   752    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.705169,-7.972109,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sedyo makmur Sadap 3</name>
+      <description><![CDATA[Tersier Sedyo makmur Sadap 3    <br>       <br>   FID   8    <br>   nama   Tersier Sedyo makmur Sadap 3    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   753    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.703914,-7.974339,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak Kontrol SP Kerjo</name>
+      <description><![CDATA[Bak Kontrol SP Kerjo    <br>       <br>   FID   9    <br>   nama   Bak Kontrol SP Kerjo    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   760    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.704029,-7.971915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak Kontrol SP Kerjo</name>
+      <description><![CDATA[Bak Kontrol SP Kerjo    <br>       <br>   FID   10    <br>   nama   Bak Kontrol SP Kerjo    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   781    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.707875,-7.975308,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak kontrol SP Kerjo</name>
+      <description><![CDATA[Bak kontrol SP Kerjo    <br>       <br>   FID   11    <br>   nama   Bak kontrol SP Kerjo    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   782    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.707654,-7.976143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sedyo makmur Sadap 5 A</name>
+      <description><![CDATA[Tersier Sedyo makmur Sadap 5 A    <br>       <br>   FID   12    <br>   nama   Tersier Sedyo makmur Sadap 5 A    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   780    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.707694,-7.97529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UPT</name>
+      <description><![CDATA[UPT    <br>       <br>   FID   13    <br>   nama   UPT    <br>   nomenklatu   UPT    <br>   id_di   52138    <br>   norec   294    <br>   k_aset   F01    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.709814,-7.969686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rumah Jaga Bendung</name>
+      <description><![CDATA[Rumah Jaga Bendung    <br>       <br>   FID   14    <br>   nama   Rumah Jaga Bendung    <br>   nomenklatu   Rumah Jaga Bendung    <br>   id_di   52138    <br>   norec   295    <br>   k_aset   F02    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.720022,-7.958895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak Kontrol Susukan 1</name>
+      <description><![CDATA[Bak Kontrol Susukan 1    <br>       <br>   FID   15    <br>   nama   Bak Kontrol Susukan 1    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   1381    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.709459,-7.969167,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak Kontrol Susukan 1</name>
+      <description><![CDATA[Bak Kontrol Susukan 1    <br>       <br>   FID   16    <br>   nama   Bak Kontrol Susukan 1    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   1382    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.709357,-7.969262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bak Kontrol Susukan 1</name>
+      <description><![CDATA[Bak Kontrol Susukan 1    <br>       <br>   FID   17    <br>   nama   Bak Kontrol Susukan 1    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   1380    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.710064,-7.96846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Box 4 Sambirejo 2</name>
+      <description><![CDATA[Box 4 Sambirejo 2    <br>       <br>   FID   18    <br>   nama   Box 4 Sambirejo 2    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   817    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.700649,-7.977744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Utama Ponjong Sadap 3</name>
+      <description><![CDATA[Tersier Utama Ponjong Sadap 3    <br>       <br>   FID   19    <br>   nama   Tersier Utama Ponjong Sadap 3    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   819    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.700074,-7.976157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Utama Ponjong Sadap 1</name>
+      <description><![CDATA[Tersier Utama Ponjong Sadap 1    <br>       <br>   FID   20    <br>   nama   Tersier Utama Ponjong Sadap 1    <br>   nomenklatu       <br>   id_di   52138    <br>   norec   818    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          110.70033,-7.975891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bangunan</name>
+    <Style id="icon-1498-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1498-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1499-795548-labelson">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-labelson">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1739-795548-labelson">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Goronggorong</name>
+      <description><![CDATA[Goronggorong    <br>       <br>   FID   0    <br>   nama   Goronggorong    <br>   nomenklatu       <br>   id_di   26668    <br>   norec   217    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.379751,-7.82854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>akhir</name>
+      <description><![CDATA[akhir    <br>       <br>   FID   1    <br>   nama   akhir    <br>   nomenklatu       <br>   id_di   26668    <br>   norec   218    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.367208,-7.829767,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Paris 2 Cabang 2A</name>
+      <description><![CDATA[Akhir Tersier Paris 2 Cabang 2A    <br>       <br>   FID   2    <br>   nama   Akhir Tersier Paris 2 Cabang 2A    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   76    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.361785,-7.836937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Pelem Sewu 1</name>
+      <description><![CDATA[Akhir Tersier Pelem Sewu 1    <br>       <br>   FID   3    <br>   nama   Akhir Tersier Pelem Sewu 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   77    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.360795,-7.841675,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   4    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   74    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.361622,-7.836005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   5    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   75    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.360403,-7.838738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pintu Pembuang</name>
+      <description><![CDATA[Pintu Pembuang    <br>       <br>   FID   6    <br>   nama   Pintu Pembuang    <br>   nomenklatu   BSdi1a    <br>   id_di   26668    <br>   norec   2    <br>   k_aset   C14    <br>   icon   0047]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374714,-7.816676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pelimpah Samping</name>
+      <description><![CDATA[Pelimpah Samping    <br>       <br>   FID   7    <br>   nama   Pelimpah Samping    <br>   nomenklatu   BSdi1b    <br>   id_di   26668    <br>   norec   4    <br>   k_aset   C08    <br>   icon   0072]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.376179,-7.821692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jembatan Desa</name>
+      <description><![CDATA[Jembatan Desa    <br>       <br>   FID   8    <br>   nama   Jembatan Desa    <br>   nomenklatu   BSdi2a    <br>   id_di   26668    <br>   norec   5    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.377329,-7.824731,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   9    <br>   nama   Sadap    <br>   nomenklatu   Crsdi2    <br>   id_di   26668    <br>   norec   6    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.377345,-7.825487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempat Cuci</name>
+      <description><![CDATA[Tempat Cuci    <br>       <br>   FID   10    <br>   nama   Tempat Cuci    <br>   nomenklatu   BSdi2b    <br>   id_di   26668    <br>   norec   7    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.378204,-7.828269,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GorongGorong</name>
+      <description><![CDATA[GorongGorong    <br>       <br>   FID   11    <br>   nama   GorongGorong    <br>   nomenklatu   BSdi2c    <br>   id_di   26668    <br>   norec   10    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.380948,-7.828598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GorongGorong</name>
+      <description><![CDATA[GorongGorong    <br>       <br>   FID   12    <br>   nama   GorongGorong    <br>   nomenklatu   BSdi2d    <br>   id_di   26668    <br>   norec   11    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.381241,-7.82898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GorongGorong</name>
+      <description><![CDATA[GorongGorong    <br>       <br>   FID   13    <br>   nama   GorongGorong    <br>   nomenklatu   BSdn1a    <br>   id_di   26668    <br>   norec   14    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374235,-7.816546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pintu Pembuang</name>
+      <description><![CDATA[Pintu Pembuang    <br>       <br>   FID   14    <br>   nama   Pintu Pembuang    <br>   nomenklatu   BSdn2a    <br>   id_di   26668    <br>   norec   15    <br>   k_aset   C14    <br>   icon   0047]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374143,-7.816643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pintu Pembuang</name>
+      <description><![CDATA[Pintu Pembuang    <br>       <br>   FID   15    <br>   nama   Pintu Pembuang    <br>   nomenklatu   BSdn2b    <br>   id_di   26668    <br>   norec   16    <br>   k_aset   C14    <br>   icon   0047]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374139,-7.817654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jembatan Desa</name>
+      <description><![CDATA[Jembatan Desa    <br>       <br>   FID   16    <br>   nama   Jembatan Desa    <br>   nomenklatu   BSdn1c    <br>   id_di   26668    <br>   norec   19    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374322,-7.82151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempat Cuci</name>
+      <description><![CDATA[Tempat Cuci    <br>       <br>   FID   17    <br>   nama   Tempat Cuci    <br>   nomenklatu   BSdn1d    <br>   id_di   26668    <br>   norec   21    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.373898,-7.823213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pintu Pembuang</name>
+      <description><![CDATA[Pintu Pembuang    <br>       <br>   FID   18    <br>   nama   Pintu Pembuang    <br>   nomenklatu   BSdn2c    <br>   id_di   26668    <br>   norec   22    <br>   k_aset   C14    <br>   icon   0047]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.373461,-7.824807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GorongGorong</name>
+      <description><![CDATA[GorongGorong    <br>       <br>   FID   19    <br>   nama   GorongGorong    <br>   nomenklatu   BSdi1j    <br>   id_di   26668    <br>   norec   30    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.36723,-7.829547,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Talang</name>
+      <description><![CDATA[Talang    <br>       <br>   FID   20    <br>   nama   Talang    <br>   nomenklatu   BSdn2c    <br>   id_di   26668    <br>   norec   32    <br>   k_aset   C04    <br>   icon   006E]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.373457,-7.824811,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   21    <br>   nama   Sadap    <br>   nomenklatu   CrSdn1    <br>   id_di   26668    <br>   norec   17    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374458,-7.819718,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>bagi sadap</name>
+      <description><![CDATA[bagi sadap    <br>       <br>   FID   22    <br>   nama   bagi sadap    <br>   nomenklatu   CrSdn3    <br>   id_di   26668    <br>   norec   24    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.373525,-7.826055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Salakan 2</name>
+      <description><![CDATA[Akhir Tersier Salakan 2    <br>       <br>   FID   23    <br>   nama   Akhir Tersier Salakan 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   35    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.371379,-7.836046,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Salakan 2</name>
+      <description><![CDATA[Akhir Tersier Salakan 2    <br>       <br>   FID   24    <br>   nama   Akhir Tersier Salakan 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   36    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.371567,-7.837966,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Salakan 1</name>
+      <description><![CDATA[Akhir Tersier Salakan 1    <br>       <br>   FID   25    <br>   nama   Akhir Tersier Salakan 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   37    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.373717,-7.826066,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   26    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   38    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1499-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.371402,-7.834207,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Salakan 2 Cabang</name>
+      <description><![CDATA[Akhir Tersier Salakan 2 Cabang    <br>       <br>   FID   27    <br>   nama   Akhir Tersier Salakan 2 Cabang    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   39    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.369612,-7.835918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Salakan 2 Cabang 2</name>
+      <description><![CDATA[Akhir Tersier Salakan 2 Cabang 2    <br>       <br>   FID   28    <br>   nama   Akhir Tersier Salakan 2 Cabang 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   40    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.370129,-7.83772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   29    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   41    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1499-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.372524,-7.831307,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Salakan 2</name>
+      <description><![CDATA[Akhir Tersier Salakan 2    <br>       <br>   FID   30    <br>   nama   Akhir Tersier Salakan 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   42    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.373889,-7.831177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   31    <br>   nama   Sadap    <br>   nomenklatu   CrSdn2    <br>   id_di   26668    <br>   norec   20    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374293,-7.821609,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Perwita 1 Cabang 1</name>
+      <description><![CDATA[Tersier Perwita 1 Cabang 1    <br>       <br>   FID   32    <br>   nama   Tersier Perwita 1 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   46    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.3693,-7.831142,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 1</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 1    <br>       <br>   FID   33    <br>   nama   Akhir Tersier Perwita 1 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   47    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.367443,-7.835832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Paris 1</name>
+      <description><![CDATA[Akhir Tersier Paris 1    <br>       <br>   FID   34    <br>   nama   Akhir Tersier Paris 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   48    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.365801,-7.83515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 2</name>
+      <description><![CDATA[Akhir Tersier Perwita 2    <br>       <br>   FID   35    <br>   nama   Akhir Tersier Perwita 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   49    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.365863,-7.83534,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1</name>
+      <description><![CDATA[Akhir Tersier Perwita 1    <br>       <br>   FID   36    <br>   nama   Akhir Tersier Perwita 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   51    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.369002,-7.834479,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   37    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   50    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.369277,-7.831375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 2</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 2    <br>       <br>   FID   38    <br>   nama   Akhir Tersier Perwita 1 Cabang 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   52    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.3686,-7.835772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Perwita 1</name>
+      <description><![CDATA[Tersier Perwita 1    <br>       <br>   FID   39    <br>   nama   Tersier Perwita 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   53    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.369364,-7.828275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 1A</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 1A    <br>       <br>   FID   40    <br>   nama   Akhir Tersier Perwita 1 Cabang 1A    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   55    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.367292,-7.831174,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Perwita 1 Cabang 1A</name>
+      <description><![CDATA[Tersier Perwita 1 Cabang 1A    <br>       <br>   FID   41    <br>   nama   Tersier Perwita 1 Cabang 1A    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   54    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.368468,-7.83115,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 2C</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 2C    <br>       <br>   FID   42    <br>   nama   Akhir Tersier Perwita 1 Cabang 2C    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   89    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.366895,-7.842788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Wirosaban</name>
+      <description><![CDATA[Akhir Tersier Wirosaban    <br>       <br>   FID   43    <br>   nama   Akhir Tersier Wirosaban    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   91    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.378405,-7.832376,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   44    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   90    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.367577,-7.840246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 2B</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 2B    <br>       <br>   FID   45    <br>   nama   Akhir Tersier Perwita 1 Cabang 2B    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   93    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.368342,-7.842189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 2</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 2    <br>       <br>   FID   46    <br>   nama   Akhir Tersier Perwita 1 Cabang 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   92    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.368037,-7.841908,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Wirosaban 2</name>
+      <description><![CDATA[Akhir Tersier Wirosaban 2    <br>       <br>   FID   47    <br>   nama   Akhir Tersier Wirosaban 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   96    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.381629,-7.836476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Wirosaban 3</name>
+      <description><![CDATA[Akhir Tersier Wirosaban 3    <br>       <br>   FID   48    <br>   nama   Akhir Tersier Wirosaban 3    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   100    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.381595,-7.835035,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Pembuangan Potronandan</name>
+      <description><![CDATA[Akhir Pembuangan Potronandan    <br>       <br>   FID   49    <br>   nama   Akhir Pembuangan Potronandan    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   102    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.38582,-7.831413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Wirosaban 2 Cabang 1</name>
+      <description><![CDATA[Akhir Tersier Wirosaban 2 Cabang 1    <br>       <br>   FID   50    <br>   nama   Akhir Tersier Wirosaban 2 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   105    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.383363,-7.836458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Wirosaban 4</name>
+      <description><![CDATA[Akhir Tersier Wirosaban 4    <br>       <br>   FID   51    <br>   nama   Akhir Tersier Wirosaban 4    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   104    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.382066,-7.831435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Wirosaban 2 Cabang 1</name>
+      <description><![CDATA[Akhir Tersier Wirosaban 2 Cabang 1    <br>       <br>   FID   52    <br>   nama   Akhir Tersier Wirosaban 2 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   103    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.382924,-7.834961,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   53    <br>   nama   Sadap    <br>   nomenklatu   CrSdi3    <br>   id_di   26668    <br>   norec   8    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.379395,-7.8284,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Wirosaban 3 Cabang 2</name>
+      <description><![CDATA[Akhir Tersier Wirosaban 3 Cabang 2    <br>       <br>   FID   54    <br>   nama   Akhir Tersier Wirosaban 3 Cabang 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   98    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.386173,-7.833829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Wirosaban 3 Cabang 2</name>
+      <description><![CDATA[Akhir Tersier Wirosaban 3 Cabang 2    <br>       <br>   FID   55    <br>   nama   Akhir Tersier Wirosaban 3 Cabang 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   106    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.38468,-7.840227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Wirosaban 4 Cabang 1</name>
+      <description><![CDATA[Tersier Wirosaban 4 Cabang 1    <br>       <br>   FID   56    <br>   nama   Tersier Wirosaban 4 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   107    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.381647,-7.830208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Wirosaban 4 Cabang 1</name>
+      <description><![CDATA[Akhir Tersier Wirosaban 4 Cabang 1    <br>       <br>   FID   57    <br>   nama   Akhir Tersier Wirosaban 4 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   108    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.38408,-7.831348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Akhir</name>
+      <description><![CDATA[Bangunan Akhir    <br>       <br>   FID   58    <br>   nama   Bangunan Akhir    <br>   nomenklatu   CrSdi5    <br>   id_di   26668    <br>   norec   12    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.38124,-7.828994,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   59    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   99    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.380537,-7.830484,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 1C</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 1C    <br>       <br>   FID   60    <br>   nama   Akhir Tersier Perwita 1 Cabang 1C    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   86    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.36468,-7.842294,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Paris 2 Cabang 2</name>
+      <description><![CDATA[Akhir Tersier Paris 2 Cabang 2    <br>       <br>   FID   61    <br>   nama   Akhir Tersier Paris 2 Cabang 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   56    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.363613,-7.834595,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Paris 2</name>
+      <description><![CDATA[Akhir Tersier Paris 2    <br>       <br>   FID   62    <br>   nama   Akhir Tersier Paris 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   59    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364795,-7.833931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tanda Tersier Paris 2 Cabang 2</name>
+      <description><![CDATA[Tanda Tersier Paris 2 Cabang 2    <br>       <br>   FID   63    <br>   nama   Tanda Tersier Paris 2 Cabang 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   57    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.36276,-7.834435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   64    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   58    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.365233,-7.832695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Perwita 3 Cabang</name>
+      <description><![CDATA[Tersier Perwita 3 Cabang    <br>       <br>   FID   65    <br>   nama   Tersier Perwita 3 Cabang    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   61    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.366879,-7.83116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Paris 1 Cabang 1</name>
+      <description><![CDATA[Tersier Paris 1 Cabang 1    <br>       <br>   FID   66    <br>   nama   Tersier Paris 1 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   63    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364855,-7.837116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Paris 1 Cabang 1</name>
+      <description><![CDATA[Akhir Tersier Paris 1 Cabang 1    <br>       <br>   FID   67    <br>   nama   Akhir Tersier Paris 1 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   64    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.362586,-7.841974,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tanda Tersier Paris 1</name>
+      <description><![CDATA[Tanda Tersier Paris 1    <br>       <br>   FID   68    <br>   nama   Tanda Tersier Paris 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   65    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364077,-7.836945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Paris 1</name>
+      <description><![CDATA[Akhir Tersier Paris 1    <br>       <br>   FID   69    <br>   nama   Akhir Tersier Paris 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   66    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.363388,-7.837904,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Perwita 3</name>
+      <description><![CDATA[Tersier Perwita 3    <br>       <br>   FID   70    <br>   nama   Tersier Perwita 3    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   67    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.367208,-7.82979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tanda Tersier Paris 2 Cabang 1</name>
+      <description><![CDATA[Tanda Tersier Paris 2 Cabang 1    <br>       <br>   FID   71    <br>   nama   Tanda Tersier Paris 2 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   69    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364849,-7.835174,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 3</name>
+      <description><![CDATA[Akhir Tersier Perwita 3    <br>       <br>   FID   72    <br>   nama   Akhir Tersier Perwita 3    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   68    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364202,-7.832423,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Paris 2 Cabang 1</name>
+      <description><![CDATA[Tersier Paris 2 Cabang 1    <br>       <br>   FID   73    <br>   nama   Tersier Paris 2 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   70    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364175,-7.83688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Paris 2 Cabang 2A</name>
+      <description><![CDATA[Tersier Paris 2 Cabang 2A    <br>       <br>   FID   74    <br>   nama   Tersier Paris 2 Cabang 2A    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   71    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364598,-7.832539,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   75    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   72    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364838,-7.833691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Paris 2 Cabang 2B</name>
+      <description><![CDATA[Akhir Tersier Paris 2 Cabang 2B    <br>       <br>   FID   76    <br>   nama   Akhir Tersier Paris 2 Cabang 2B    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   73    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.363921,-7.833405,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   77    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   80    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-FF5252-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.366217,-7.84007,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   78    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   78    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.367569,-7.84005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 2A</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 2A    <br>       <br>   FID   79    <br>   nama   Akhir Tersier Perwita 1 Cabang 2A    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   79    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.366889,-7.840226,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 2</name>
+      <description><![CDATA[Akhir Tersier Perwita 2    <br>       <br>   FID   80    <br>   nama   Akhir Tersier Perwita 2    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   83    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.362002,-7.850526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 1D</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 1D    <br>       <br>   FID   81    <br>   nama   Akhir Tersier Perwita 1 Cabang 1D    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   85    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.36522,-7.844878,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 1B</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 1B    <br>       <br>   FID   82    <br>   nama   Akhir Tersier Perwita 1 Cabang 1B    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   84    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364688,-7.842232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   83    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   82    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.364658,-7.842292,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Perwita 1 Cabang 1</name>
+      <description><![CDATA[Akhir Tersier Perwita 1 Cabang 1    <br>       <br>   FID   84    <br>   nama   Akhir Tersier Perwita 1 Cabang 1    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   87    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.36538,-7.843972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>pintu pembuang</name>
+      <description><![CDATA[pintu pembuang    <br>       <br>   FID   85    <br>   nama   pintu pembuang    <br>   nomenklatu   bsd    <br>   id_di   26668    <br>   norec   216    <br>   k_aset   C14    <br>   icon   0047]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.376005,-7.82184,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>akhir masuk sungai</name>
+      <description><![CDATA[akhir masuk sungai    <br>       <br>   FID   86    <br>   nama   akhir masuk sungai    <br>   nomenklatu   bsd    <br>   id_di   26668    <br>   norec   215    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374949,-7.818837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jembatan</name>
+      <description><![CDATA[Jembatan    <br>       <br>   FID   87    <br>   nama   Jembatan    <br>   nomenklatu   BSdn2f    <br>   id_di   26668    <br>   norec   33    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.373948,-7.824352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GorongGorong</name>
+      <description><![CDATA[GorongGorong    <br>       <br>   FID   88    <br>   nama   GorongGorong    <br>   nomenklatu   BSdn1e    <br>   id_di   26668    <br>   norec   23    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.373491,-7.825298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GorongGorong</name>
+      <description><![CDATA[GorongGorong    <br>       <br>   FID   89    <br>   nama   GorongGorong    <br>   nomenklatu   BSdn1h    <br>   id_di   26668    <br>   norec   28    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.370687,-7.827542,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   90    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   95    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.380824,-7.83523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   91    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   101    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.385357,-7.83138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   92    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   97    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.380563,-7.83131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   93    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   88    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.367301,-7.841671,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   94    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   60    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.36694,-7.829775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   95    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   81    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.365506,-7.842455,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gorong gorong saluran primer Sidomulyo</name>
+      <description><![CDATA[Gorong gorong saluran primer Sidomulyo    <br>       <br>   FID   96    <br>   nama   Gorong gorong saluran primer Sidomulyo    <br>   nomenklatu   BSdn1a    <br>   id_di   26668    <br>   norec   13    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374571,-7.816604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   97    <br>   nama   Sadap    <br>   nomenklatu   CrSdi1    <br>   id_di   26668    <br>   norec   3    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374832,-7.817688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GorongGorong</name>
+      <description><![CDATA[GorongGorong    <br>       <br>   FID   98    <br>   nama   GorongGorong    <br>   nomenklatu   BSdn1f    <br>   id_di   26668    <br>   norec   25    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.373416,-7.826159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   99    <br>   nama   Bagi    <br>   nomenklatu   0    <br>   id_di   26668    <br>   norec   62    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1498-F57C00-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.366288,-7.831159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GorongGorong</name>
+      <description><![CDATA[GorongGorong    <br>       <br>   FID   100    <br>   nama   GorongGorong    <br>   nomenklatu   BSdn1b    <br>   id_di   26668    <br>   norec   18    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          110.374618,-7.820809,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bangunan</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bendung.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bendung.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bgn.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>TC 1024</name>
+      <description><![CDATA[TC 1024    <br>       <br>   FID   0    <br>   nama   TC 1024    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   66    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256793,-7.779657,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jembatan 1035</name>
+      <description><![CDATA[Jembatan 1035    <br>       <br>   FID   1    <br>   nama   Jembatan 1035    <br>   nomenklatu   BPg 2a    <br>   id_di   26663    <br>   norec   10    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256748,-7.779807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>akhir sekunder kiri 800</name>
+      <description><![CDATA[akhir sekunder kiri 800    <br>       <br>   FID   2    <br>   nama   akhir sekunder kiri 800    <br>   nomenklatu   bpgki    <br>   id_di   26663    <br>   norec   113    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.255367,-7.787351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terjunan 006</name>
+      <description><![CDATA[Terjunan 006    <br>       <br>   FID   3    <br>   nama   Terjunan 006    <br>   nomenklatu   BPb 3b    <br>   id_di   26663    <br>   norec   13    <br>   k_aset   C07    <br>   icon   0070]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.25634,-7.780304,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TC 310</name>
+      <description><![CDATA[TC 310    <br>       <br>   FID   4    <br>   nama   TC 310    <br>   nomenklatu   1    <br>   id_di   26663    <br>   norec   101    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.255972,-7.78302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goronggorong 311</name>
+      <description><![CDATA[Goronggorong 311    <br>       <br>   FID   5    <br>   nama   Goronggorong 311    <br>   nomenklatu   Skiri    <br>   id_di   26663    <br>   norec   103    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256015,-7.783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gorongorong 480</name>
+      <description><![CDATA[Gorongorong 480    <br>       <br>   FID   6    <br>   nama   Gorongorong 480    <br>   nomenklatu   Grsekunder    <br>   id_di   26663    <br>   norec   99    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.253099,-7.782665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap 862</name>
+      <description><![CDATA[Bangunan Sadap 862    <br>       <br>   FID   7    <br>   nama   Bangunan Sadap 862    <br>   nomenklatu   BPg 1    <br>   id_di   26663    <br>   norec   8    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.257199,-7.778518,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap 005</name>
+      <description><![CDATA[Bangunan Sadap 005    <br>       <br>   FID   8    <br>   nama   Bangunan Sadap 005    <br>   nomenklatu   BPg 2    <br>   id_di   26663    <br>   norec   11    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.256394,-7.780276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goronggorong 1383</name>
+      <description><![CDATA[goronggorong 1383    <br>       <br>   FID   9    <br>   nama   goronggorong 1383    <br>   nomenklatu   bpgka    <br>   id_di   26663    <br>   norec   68    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.250695,-7.790245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TC 915</name>
+      <description><![CDATA[TC 915    <br>       <br>   FID   10    <br>   nama   TC 915    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   62    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257139,-7.77865,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goronggorong silang 429</name>
+      <description><![CDATA[Goronggorong silang 429    <br>       <br>   FID   11    <br>   nama   Goronggorong silang 429    <br>   nomenklatu   BPg 1b    <br>   id_di   26663    <br>   norec   4    <br>   k_aset   C12    <br>   icon   0074]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.25888,-7.775309,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tc 720 lama</name>
+      <description><![CDATA[tc 720 lama    <br>       <br>   FID   12    <br>   nama   tc 720 lama    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   56    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258092,-7.777732,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tc 816 lama</name>
+      <description><![CDATA[tc 816 lama    <br>       <br>   FID   13    <br>   nama   tc 816 lama    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   59    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257384,-7.778339,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tcuci 200</name>
+      <description><![CDATA[tcuci 200    <br>       <br>   FID   14    <br>   nama   tcuci 200    <br>   nomenklatu   1    <br>   id_di   26663    <br>   norec   114    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258613,-7.773345,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>akhir dummy</name>
+      <description><![CDATA[akhir dummy    <br>       <br>   FID   15    <br>   nama   akhir dummy    <br>   nomenklatu   bpgka    <br>   id_di   26663    <br>   norec   117    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.256548,-7.780268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tcuci 267</name>
+      <description><![CDATA[tcuci 267    <br>       <br>   FID   16    <br>   nama   tcuci 267    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   115    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258513,-7.773827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jembatan</name>
+      <description><![CDATA[Jembatan    <br>       <br>   FID   17    <br>   nama   Jembatan    <br>   nomenklatu   BPg 1c    <br>   id_di   26663    <br>   norec   5    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258275,-7.777444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tc 707 lama</name>
+      <description><![CDATA[tc 707 lama    <br>       <br>   FID   18    <br>   nama   tc 707 lama    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   55    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258117,-7.777613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tc 754 lama</name>
+      <description><![CDATA[tc 754 lama    <br>       <br>   FID   19    <br>   nama   tc 754 lama    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   57    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257895,-7.777906,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>pintu pembuang 755</name>
+      <description><![CDATA[pintu pembuang 755    <br>       <br>   FID   20    <br>   nama   pintu pembuang 755    <br>   nomenklatu   bspvd    <br>   id_di   26663    <br>   norec   34    <br>   k_aset   C14    <br>   icon   0047]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.252296,-7.784916,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tc</name>
+      <description><![CDATA[tc    <br>       <br>   FID   21    <br>   nama   tc    <br>   nomenklatu   bpg1a    <br>   id_di   26663    <br>   norec   44    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258528,-7.771688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>cross drain 593</name>
+      <description><![CDATA[cross drain 593    <br>       <br>   FID   22    <br>   nama   cross drain 593    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   53    <br>   k_aset   C12    <br>   icon   0074]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.25841,-7.776556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TC 941</name>
+      <description><![CDATA[TC 941    <br>       <br>   FID   23    <br>   nama   TC 941    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   63    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257115,-7.778723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goronggorong 944</name>
+      <description><![CDATA[goronggorong 944    <br>       <br>   FID   24    <br>   nama   goronggorong 944    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   64    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256875,-7.779307,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TC</name>
+      <description><![CDATA[TC    <br>       <br>   FID   25    <br>   nama   TC    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   65    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256941,-7.779118,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TC</name>
+      <description><![CDATA[TC    <br>       <br>   FID   26    <br>   nama   TC    <br>   nomenklatu   bpgki    <br>   id_di   26663    <br>   norec   70    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.255336,-7.787499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goronggorong</name>
+      <description><![CDATA[goronggorong    <br>       <br>   FID   27    <br>   nama   goronggorong    <br>   nomenklatu   bpgki    <br>   id_di   26663    <br>   norec   73    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.255849,-7.787478,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   28    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   74    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257251,-7.788041,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   29    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   76    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257611,-7.78893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   30    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   77    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257622,-7.789789,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   31    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   80    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257353,-7.792967,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   32    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   84    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256152,-7.797073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TC 878</name>
+      <description><![CDATA[TC 878    <br>       <br>   FID   33    <br>   nama   TC 878    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   61    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257181,-7.778558,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GORONGGORONG 945</name>
+      <description><![CDATA[GORONGGORONG 945    <br>       <br>   FID   34    <br>   nama   GORONGGORONG 945    <br>   nomenklatu   GrSkeunder kanan    <br>   id_di   26663    <br>   norec   92    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.251731,-7.786556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goronggorong</name>
+      <description><![CDATA[Goronggorong    <br>       <br>   FID   35    <br>   nama   Goronggorong    <br>   nomenklatu   gr sekunder kanan    <br>   id_di   26663    <br>   norec   100    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.250783,-7.790351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TC 475</name>
+      <description><![CDATA[TC 475    <br>       <br>   FID   36    <br>   nama   TC 475    <br>   nomenklatu   TC    <br>   id_di   26663    <br>   norec   104    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.255796,-7.784661,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terjunan 011</name>
+      <description><![CDATA[Terjunan 011    <br>       <br>   FID   37    <br>   nama   Terjunan 011    <br>   nomenklatu   Tsekunder kiri    <br>   id_di   26663    <br>   norec   102    <br>   k_aset   C07    <br>   icon   0070]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256462,-7.78036,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>talang silang</name>
+      <description><![CDATA[talang silang    <br>       <br>   FID   38    <br>   nama   talang silang    <br>   nomenklatu   bpg1a    <br>   id_di   26663    <br>   norec   54    <br>   k_aset   C12    <br>   icon   0074]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258536,-7.771713,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   39    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   69    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.25734,-7.787171,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>akhir</name>
+      <description><![CDATA[akhir    <br>       <br>   FID   40    <br>   nama   akhir    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   71    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.25346,-7.794898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   41    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   72    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.254556,-7.791186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   42    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   75    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257315,-7.788256,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   43    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   78    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257633,-7.790765,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   44    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   79    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257599,-7.791476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   45    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   81    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.251014,-7.790527,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   46    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   82    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256408,-7.791569,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   47    <br>   nama       <br>   nomenklatu       <br>   id_di   26663    <br>   norec   83    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257207,-7.795414,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tcuci 696</name>
+      <description><![CDATA[tcuci 696    <br>       <br>   FID   48    <br>   nama   tcuci 696    <br>   nomenklatu   1    <br>   id_di   26663    <br>   norec   105    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258244,-7.777579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jembatan lama 850</name>
+      <description><![CDATA[Jembatan lama 850    <br>       <br>   FID   49    <br>   nama   Jembatan lama 850    <br>   nomenklatu   BPg 1c    <br>   id_di   26663    <br>   norec   7    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257225,-7.778458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>jembatan</name>
+      <description><![CDATA[jembatan    <br>       <br>   FID   50    <br>   nama   jembatan    <br>   nomenklatu   bpg1c    <br>   id_di   26663    <br>   norec   47    <br>   k_aset   C06    <br>   icon   0078]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258585,-7.771776,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tc 427</name>
+      <description><![CDATA[tc 427    <br>       <br>   FID   51    <br>   nama   tc 427    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   52    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258884,-7.775155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap 472</name>
+      <description><![CDATA[Bangunan Sadap 472    <br>       <br>   FID   52    <br>   nama   Bangunan Sadap 472    <br>   nomenklatu   BPg 3    <br>   id_di   26663    <br>   norec   15    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.253142,-7.782657,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Box Tersier</name>
+      <description><![CDATA[Box Tersier    <br>       <br>   FID   53    <br>   nama   Box Tersier    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   30    <br>   k_aset   P04    <br>   icon   0045]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.254308,-7.791197,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>pintu pembuang 041</name>
+      <description><![CDATA[pintu pembuang 041    <br>       <br>   FID   54    <br>   nama   pintu pembuang 041    <br>   nomenklatu   bpg1b    <br>   id_di   26663    <br>   norec   46    <br>   k_aset   C14    <br>   icon   0047]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258555,-7.771739,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terjunan 512</name>
+      <description><![CDATA[Terjunan 512    <br>       <br>   FID   55    <br>   nama   Terjunan 512    <br>   nomenklatu   BPg 5a    <br>   id_di   26663    <br>   norec   19    <br>   k_aset   C07    <br>   icon   0070]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.253025,-7.782939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jembatan 002</name>
+      <description><![CDATA[Jembatan 002    <br>       <br>   FID   56    <br>   nama   Jembatan 002    <br>   nomenklatu   BPg 3a    <br>   id_di   26663    <br>   norec   12    <br>   k_aset   C03    <br>   icon   006D]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256418,-7.780227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>akhir dummy</name>
+      <description><![CDATA[akhir dummy    <br>       <br>   FID   57    <br>   nama   akhir dummy    <br>   nomenklatu   bpgka    <br>   id_di   26663    <br>   norec   119    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.250547,-7.790401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir primer 1075</name>
+      <description><![CDATA[Akhir primer 1075    <br>       <br>   FID   58    <br>   nama   Akhir primer 1075    <br>   nomenklatu   bpg2    <br>   id_di   26663    <br>   norec   112    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.256465,-7.780252,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Box Tersier</name>
+      <description><![CDATA[Box Tersier    <br>       <br>   FID   59    <br>   nama   Box Tersier    <br>   nomenklatu   bpgki    <br>   id_di   26663    <br>   norec   40    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.255662,-7.787453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap 511</name>
+      <description><![CDATA[Bangunan Sadap 511    <br>       <br>   FID   60    <br>   nama   Bangunan Sadap 511    <br>   nomenklatu   BPg 4    <br>   id_di   26663    <br>   norec   18    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.253033,-7.78284,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tc 100</name>
+      <description><![CDATA[tc 100    <br>       <br>   FID   61    <br>   nama   tc 100    <br>   nomenklatu   bpg1d    <br>   id_di   26663    <br>   norec   48    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258619,-7.772306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kantong Lumpur 045</name>
+      <description><![CDATA[Kantong Lumpur 045    <br>       <br>   FID   62    <br>   nama   Kantong Lumpur 045    <br>   nomenklatu   BPg 1a    <br>   id_di   26663    <br>   norec   2    <br>   k_aset   C05    <br>   icon   004B]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258609,-7.771827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tc 774 lama</name>
+      <description><![CDATA[tc 774 lama    <br>       <br>   FID   63    <br>   nama   tc 774 lama    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   58    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.257723,-7.778053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bendung Ponggok</name>
+      <description><![CDATA[Bendung Ponggok    <br>       <br>   FID   64    <br>   nama   Bendung Ponggok    <br>   nomenklatu   BPg 0    <br>   id_di   26663    <br>   norec   1    <br>   k_aset   B01    <br>   icon   0063]]></description>
+      <styleUrl>#icon-1502-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.258547,-7.771556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TC 1050</name>
+      <description><![CDATA[TC 1050    <br>       <br>   FID   65    <br>   nama   TC 1050    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   67    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.256672,-7.779892,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Box Tersier</name>
+      <description><![CDATA[Box Tersier    <br>       <br>   FID   66    <br>   nama   Box Tersier    <br>   nomenklatu   bpgki    <br>   id_di   26663    <br>   norec   41    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.255453,-7.7887,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>tc 145</name>
+      <description><![CDATA[tc 145    <br>       <br>   FID   67    <br>   nama   tc 145    <br>   nomenklatu   bpg    <br>   id_di   26663    <br>   norec   49    <br>   k_aset   C09    <br>   icon   0079]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.258536,-7.772816,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>akhir sekunder kanan 1391</name>
+      <description><![CDATA[akhir sekunder kanan 1391    <br>       <br>   FID   68    <br>   nama   akhir sekunder kanan 1391    <br>   nomenklatu   bpgka    <br>   id_di   26663    <br>   norec   35    <br>   k_aset   P04    <br>   icon   0045]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.250651,-7.79039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

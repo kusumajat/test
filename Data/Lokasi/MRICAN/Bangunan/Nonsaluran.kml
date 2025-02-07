@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nonsaluran</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   0    <br>   nama       <br>   nomenklatu       <br>   id_di   26667    <br>   norec   40    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.397134,-7.857014,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   1    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26667    <br>   norec   42    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.392988,-7.840489,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   2    <br>   nama       <br>   nomenklatu       <br>   id_di   26667    <br>   norec   67    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.390979,-7.84341,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   3    <br>   nama       <br>   nomenklatu       <br>   id_di   26667    <br>   norec   80    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.392189,-7.841607,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   4    <br>   nama       <br>   nomenklatu       <br>   id_di   26667    <br>   norec   78    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.390032,-7.842654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   5    <br>   nama       <br>   nomenklatu       <br>   id_di   26667    <br>   norec   79    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.386861,-7.840385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   6    <br>   nama       <br>   nomenklatu       <br>   id_di   26667    <br>   norec   58    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.394827,-7.841857,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

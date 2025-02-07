@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NON_SLAURAN</name>
+    <Style id="icon-1603-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Rumah Jaga Bendung</name>
+      <description><![CDATA[Rumah Jaga Bendung    <br>       <br>   FID   0    <br>   nama   Rumah Jaga Bendung    <br>   nomenklatu   Rumah Jaga Bendung    <br>   id_di   52185    <br>   norec   77    <br>   k_aset   F02    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.770389,-7.86067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>kantor pengamat semin</name>
+      <description><![CDATA[kantor pengamat semin    <br>       <br>   FID   1    <br>   nama   kantor pengamat semin    <br>   nomenklatu   bkn    <br>   id_di   52185    <br>   norec   79    <br>   k_aset   F01    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.747613,-7.859695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

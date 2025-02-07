@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NON_SALURAN</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Sadap Langsung</name>
+      <description><![CDATA[Sadap Langsung    <br>       <br>   FID   0    <br>   nama   Sadap Langsung    <br>   nomenklatu   BGl6    <br>   id_di   26648    <br>   norec   22    <br>   k_aset   P04    <br>   icon   0045]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.41029,-7.792176,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Langsung</name>
+      <description><![CDATA[Sadap Langsung    <br>       <br>   FID   1    <br>   nama   Sadap Langsung    <br>   nomenklatu   BGl7    <br>   id_di   26648    <br>   norec   24    <br>   k_aset   P04    <br>   icon   0045]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.409137,-7.792009,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Tersier</name>
+      <description><![CDATA[Saluran Tersier    <br>       <br>   FID   2    <br>   nama   Saluran Tersier    <br>   nomenklatu       <br>   id_di   26648    <br>   norec   25    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.410223,-7.798561,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Tersier</name>
+      <description><![CDATA[Saluran Tersier    <br>       <br>   FID   3    <br>   nama   Saluran Tersier    <br>   nomenklatu       <br>   id_di   26648    <br>   norec   26    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.405836,-7.797071,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Tersier</name>
+      <description><![CDATA[Saluran Tersier    <br>       <br>   FID   4    <br>   nama   Saluran Tersier    <br>   nomenklatu       <br>   id_di   26648    <br>   norec   27    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.407381,-7.809794,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Langsung</name>
+      <description><![CDATA[Sadap Langsung    <br>       <br>   FID   5    <br>   nama   Sadap Langsung    <br>   nomenklatu       <br>   id_di   26648    <br>   norec   43    <br>   k_aset   P04    <br>   icon   0045]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.418079,-7.79131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Tersier</name>
+      <description><![CDATA[Saluran Tersier    <br>       <br>   FID   6    <br>   nama   Saluran Tersier    <br>   nomenklatu       <br>   id_di   26648    <br>   norec   45    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.418173,-7.792366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Tersier</name>
+      <description><![CDATA[Saluran Tersier    <br>       <br>   FID   7    <br>   nama   Saluran Tersier    <br>   nomenklatu       <br>   id_di   26648    <br>   norec   44    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.418915,-7.795824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

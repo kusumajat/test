@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nonsaluran</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   0    <br>   nama       <br>   nomenklatu       <br>   id_di   26662    <br>   norec   102    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.289923,-7.784827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   1    <br>   nama       <br>   nomenklatu       <br>   id_di   26662    <br>   norec   101    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.289921,-7.783245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   2    <br>   nama       <br>   nomenklatu       <br>   id_di   26662    <br>   norec   103    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.290318,-7.786184,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   3    <br>   nama       <br>   nomenklatu       <br>   id_di   26662    <br>   norec   104    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.289458,-7.789837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   4    <br>   nama       <br>   nomenklatu       <br>   id_di   26662    <br>   norec   105    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.289114,-7.795085,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   5    <br>   nama       <br>   nomenklatu       <br>   id_di   26662    <br>   norec   106    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.292989,-7.785977,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   6    <br>   nama       <br>   nomenklatu       <br>   id_di   26662    <br>   norec   107    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.291297,-7.787671,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   7    <br>   nama       <br>   nomenklatu       <br>   id_di   26662    <br>   norec   108    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.291039,-7.785579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   8    <br>   nama       <br>   nomenklatu       <br>   id_di   26662    <br>   norec   110    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.291456,-7.787757,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   9    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BSbKa1    <br>   id_di   26662    <br>   norec   18    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.290996,-7.785577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

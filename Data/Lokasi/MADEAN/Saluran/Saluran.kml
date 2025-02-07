@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Saluran</name>
+    <Style id="line-097138-4000-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-097138-4000-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-097138-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-097138-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-097138-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1A237E-5000-normal">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-1A237E-5000-highlight">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-1A237E-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1A237E-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1A237E-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-757575-4000-normal">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-757575-4000-highlight">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-757575-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-757575-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-757575-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-A80000-5000-normal">
+      <LineStyle>
+        <color>ff0000a8</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-A80000-5000-highlight">
+      <LineStyle>
+        <color>ff0000a8</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-A80000-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-A80000-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-A80000-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ter kayuhan 6A</name>
+      <description><![CDATA[ter kayuhan 6A    <br>       <br>   FID   0    <br>   nama   ter kayuhan 6A    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1006    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.25945,-7.864824,0
+          110.260259,-7.86485,0
+          110.260263,-7.863949,0
+          110.260329,-7.863717,0
+          110.26033,-7.863436,0
+          110.260269,-7.863271,0
+          110.260177,-7.863121,0
+          110.260057,-7.862271,0
+          110.259975,-7.862192,0
+          110.25916,-7.862089,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter Argosari 6</name>
+      <description><![CDATA[Ter Argosari 6    <br>       <br>   FID   1    <br>   nama   Ter Argosari 6    <br>   nomenklatu   7    <br>   id_di   26672    <br>   norec   867    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.252062,-7.81428,0
+          110.252118,-7.814063,0
+          110.252456,-7.813769,0
+          110.252985,-7.813443,0
+          110.253712,-7.811251,0
+          110.254227,-7.811323,0
+          110.254986,-7.811527,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi</name>
+      <description><![CDATA[ter argodadi    <br>       <br>   FID   2    <br>   nama   ter argodadi    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   958    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.251928,-7.845412,0
+          110.251693,-7.846648,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 11</name>
+      <description><![CDATA[ter argorejo 11    <br>       <br>   FID   3    <br>   nama   ter argorejo 11    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   914    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253152,-7.832035,0
+          110.254087,-7.823953,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 20</name>
+      <description><![CDATA[ter argorejo 20    <br>       <br>   FID   4    <br>   nama   ter argorejo 20    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   908    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254905,-7.825396,0
+          110.255112,-7.825477,0
+          110.255197,-7.825131,0
+          110.255371,-7.824468,0
+          110.255716,-7.823285,0
+          110.255578,-7.823222,0
+          110.255496,-7.823207,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter gubug kiri</name>
+      <description><![CDATA[Ter gubug kiri    <br>       <br>   FID   5    <br>   nama   Ter gubug kiri    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   869    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.258591,-7.802191,0
+          110.258597,-7.802155,0
+          110.258592,-7.802159,0
+          110.258396,-7.802,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pemb kayuhan</name>
+      <description><![CDATA[pemb kayuhan    <br>       <br>   FID   6    <br>   nama   pemb kayuhan    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1020    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.263036,-7.868523,0
+          110.263042,-7.868516,0
+          110.262594,-7.862336,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter Argorejo 5</name>
+      <description><![CDATA[Ter Argorejo 5    <br>       <br>   FID   7    <br>   nama   Ter Argorejo 5    <br>   nomenklatu   BMd3    <br>   id_di   26672    <br>   norec   15    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257885,-7.816279,0
+          110.258089,-7.814153,0
+          110.257524,-7.814251,0
+          110.256972,-7.814352,0
+          110.25693,-7.81438,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter Argorejo 1</name>
+      <description><![CDATA[Ter Argorejo 1    <br>       <br>   FID   8    <br>   nama   Ter Argorejo 1    <br>   nomenklatu   BMd3    <br>   id_di   26672    <br>   norec   16    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254339,-7.814793,0
+          110.256793,-7.814361,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter Argorejo 7</name>
+      <description><![CDATA[Ter Argorejo 7    <br>       <br>   FID   9    <br>   nama   Ter Argorejo 7    <br>   nomenklatu   BMd4    <br>   id_di   26672    <br>   norec   17    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254822,-7.820963,0
+          110.255235,-7.819857,0
+          110.255869,-7.820208,0
+          110.256529,-7.820266,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter Argorejo 16</name>
+      <description><![CDATA[Ter Argorejo 16    <br>       <br>   FID   10    <br>   nama   Ter Argorejo 16    <br>   nomenklatu   BMd5    <br>   id_di   26672    <br>   norec   18    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256832,-7.825097,0
+          110.257877,-7.821568,0
+          110.257956,-7.820958,0
+          110.257179,-7.820815,0
+          110.256807,-7.820692,0
+          110.256435,-7.820569,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier argorejo 6</name>
+      <description><![CDATA[Tersier argorejo 6    <br>       <br>   FID   11    <br>   nama   Tersier argorejo 6    <br>   nomenklatu   BMd8    <br>   id_di   26672    <br>   norec   38    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257485,-7.818955,0
+          110.257853,-7.816313,0
+          110.256929,-7.816129,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R17</name>
+      <description><![CDATA[Sekunder R17    <br>       <br>   FID   12    <br>   nama   Sekunder R17    <br>   nomenklatu   SR17    <br>   id_di   26672    <br>   norec   1044    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249593,-7.848374,0
+          110.249645,-7.848182,0
+          110.249726,-7.847972,0
+          110.249767,-7.847906,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R15</name>
+      <description><![CDATA[Sekunder R15    <br>       <br>   FID   13    <br>   nama   Sekunder R15    <br>   nomenklatu   Skeunder r15    <br>   id_di   26672    <br>   norec   1045    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.251735,-7.8466,0
+          110.252059,-7.845354,0
+          110.252069,-7.845263,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R21</name>
+      <description><![CDATA[Sekunder R21    <br>       <br>   FID   14    <br>   nama   Sekunder R21    <br>   nomenklatu   Sr21    <br>   id_di   26672    <br>   norec   1049    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250039,-7.852803,0
+          110.250041,-7.852825,0
+          110.250039,-7.852803,0
+          110.249659,-7.852182,0
+          110.249392,-7.851802,0
+          110.249354,-7.851671,0
+          110.249334,-7.85154,0
+          110.249368,-7.851094,0
+          110.249387,-7.850931,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tersier r17</name>
+      <description><![CDATA[Tersier r17    <br>       <br>   FID   15    <br>   nama   Tersier r17    <br>   nomenklatu   r17    <br>   id_di   26672    <br>   norec   1051    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249163,-7.848495,0
+          110.249537,-7.848533,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder r11</name>
+      <description><![CDATA[Sekunder r11    <br>       <br>   FID   16    <br>   nama   Sekunder r11    <br>   nomenklatu   S11    <br>   id_di   26672    <br>   norec   1055    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255662,-7.832965,0
+          110.255511,-7.832938,0
+          110.25535,-7.832724,0
+          110.25438,-7.832468,0
+          110.254294,-7.832444,0
+          110.25426,-7.832378,0
+          110.254409,-7.830494,0
+          110.254558,-7.828611,0
+          110.254571,-7.828485,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R19</name>
+      <description><![CDATA[Sekunder R19    <br>       <br>   FID   17    <br>   nama   Sekunder R19    <br>   nomenklatu   sr19    <br>   id_di   26672    <br>   norec   1058    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249447,-7.850059,0
+          110.249476,-7.849722,0
+          110.249478,-7.849645,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R22</name>
+      <description><![CDATA[Sekunder R22    <br>       <br>   FID   18    <br>   nama   Sekunder R22    <br>   nomenklatu   SR22    <br>   id_di   26672    <br>   norec   1059    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250658,-7.853155,0
+          110.250549,-7.853139,0
+          110.250435,-7.85312,0
+          110.250327,-7.853091,0
+          110.250234,-7.85305,0
+          110.250156,-7.852992,0
+          110.250044,-7.852845,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R18b</name>
+      <description><![CDATA[Sekunder R18b    <br>       <br>   FID   19    <br>   nama   Sekunder R18b    <br>   nomenklatu   R18b    <br>   id_di   26672    <br>   norec   1061    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249476,-7.849638,0
+          110.249498,-7.849127,0
+          110.249522,-7.848602,0
+          110.249537,-7.848533,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R27</name>
+      <description><![CDATA[Sekunder R27    <br>       <br>   FID   20    <br>   nama   Sekunder R27    <br>   nomenklatu   r27    <br>   id_di   26672    <br>   norec   1062    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257698,-7.860553,0
+          110.257712,-7.860445,0
+          110.257716,-7.860056,0
+          110.257716,-7.859859,0
+          110.257758,-7.859661,0
+          110.257869,-7.859354,0
+          110.257614,-7.858688,0
+          110.257508,-7.858497,0
+          110.257172,-7.858154,0
+          110.257037,-7.858073,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R24</name>
+      <description><![CDATA[Sekunder R24    <br>       <br>   FID   21    <br>   nama   Sekunder R24    <br>   nomenklatu   Sr24    <br>   id_di   26672    <br>   norec   1063    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253284,-7.855881,0
+          110.253138,-7.855736,0
+          110.252895,-7.85552,0
+          110.252446,-7.855103,0
+          110.251594,-7.85432,0
+          110.251536,-7.854263,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R12</name>
+      <description><![CDATA[Sekunder R12    <br>       <br>   FID   22    <br>   nama   Sekunder R12    <br>   nomenklatu   Sekr12    <br>   id_di   26672    <br>   norec   1064    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250518,-7.841816,0
+          110.250641,-7.841731,0
+          110.250936,-7.841558,0
+          110.251563,-7.841156,0
+          110.251843,-7.840871,0
+          110.252061,-7.840599,0
+          110.252195,-7.840345,0
+          110.252294,-7.840187,0
+          110.252358,-7.840108,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R20</name>
+      <description><![CDATA[Sekunder R20    <br>       <br>   FID   23    <br>   nama   Sekunder R20    <br>   nomenklatu   Sr20    <br>   id_di   26672    <br>   norec   1067    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249394,-7.850874,0
+          110.249388,-7.85092,0
+          110.249394,-7.850874,0
+          110.249443,-7.850098,0
+          110.249443,-7.850073,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R25</name>
+      <description><![CDATA[Sekunder R25    <br>       <br>   FID   24    <br>   nama   Sekunder R25    <br>   nomenklatu   Sr25    <br>   id_di   26672    <br>   norec   1069    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257028,-7.858064,0
+          110.256755,-7.857843,0
+          110.256547,-7.85766,0
+          110.256504,-7.857632,0
+          110.256372,-7.857559,0
+          110.256202,-7.857494,0
+          110.255894,-7.857405,0
+          110.255428,-7.857296,0
+          110.255254,-7.857226,0
+          110.255096,-7.857152,0
+          110.254739,-7.857036,0
+          110.254548,-7.856904,0
+          110.254349,-7.856765,0
+          110.25394,-7.856458,0
+          110.253287,-7.855885,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R18</name>
+      <description><![CDATA[Sekunder R18    <br>       <br>   FID   25    <br>   nama   Sekunder R18    <br>   nomenklatu   Sr18    <br>   id_di   26672    <br>   norec   1070    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249537,-7.848533,0
+          110.24959,-7.848376,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 19</name>
+      <description><![CDATA[ter argorejo 19    <br>       <br>   FID   26    <br>   nama   ter argorejo 19    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   904    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.258052,-7.823494,0
+          110.257368,-7.823318,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter argomulyo 1</name>
+      <description><![CDATA[Ter argomulyo 1    <br>       <br>   FID   27    <br>   nama   Ter argomulyo 1    <br>   nomenklatu   4    <br>   id_di   26672    <br>   norec   868    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.26053,-7.804159,0
+          110.260052,-7.804386,0
+          110.259825,-7.804409,0
+          110.258716,-7.803987,0
+          110.258518,-7.803729,0
+          110.258253,-7.803606,0
+          110.257856,-7.803437,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter gubug kanan</name>
+      <description><![CDATA[Ter gubug kanan    <br>       <br>   FID   28    <br>   nama   Ter gubug kanan    <br>   nomenklatu   2    <br>   id_di   26672    <br>   norec   873    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256854,-7.803292,0
+          110.256781,-7.803291,0
+          110.256705,-7.803243,0
+          110.256698,-7.803148,0
+          110.256687,-7.803054,0
+          110.256705,-7.802961,0
+          110.256705,-7.802864,0
+          110.256734,-7.802759,0
+          110.25678,-7.802675,0
+          110.256843,-7.802607,0
+          110.25691,-7.802532,0
+          110.256965,-7.80246,0
+          110.257034,-7.802391,0
+          110.257096,-7.802322,0
+          110.257165,-7.802259,0
+          110.257244,-7.802198,0
+          110.257315,-7.80214,0
+          110.257389,-7.802079,0
+          110.257447,-7.802006,0
+          110.257538,-7.801988,0
+          110.257638,-7.802006,0
+          110.257723,-7.802041,0
+          110.257816,-7.802054,0
+          110.257901,-7.802086,0
+          110.257991,-7.802108,0
+          110.258078,-7.802076,0
+          110.258166,-7.802036,0
+          110.258267,-7.802006,0
+          110.258265,-7.802003,0
+          110.258396,-7.802,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>argosari 2</name>
+      <description><![CDATA[argosari 2    <br>       <br>   FID   29    <br>   nama   argosari 2    <br>   nomenklatu   5    <br>   id_di   26672    <br>   norec   874    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255506,-7.807356,0
+          110.256859,-7.807454,0
+          110.256814,-7.807177,0
+          110.257817,-7.804839,0
+          110.257865,-7.80475,0
+          110.257899,-7.804751,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter argosari 3 ki</name>
+      <description><![CDATA[Ter argosari 3 ki    <br>       <br>   FID   30    <br>   nama   Ter argosari 3 ki    <br>   nomenklatu   6    <br>   id_di   26672    <br>   norec   875    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254789,-7.808016,0
+          110.255253,-7.808115,0
+          110.255736,-7.808193,0
+          110.257026,-7.808247,0
+          110.256887,-7.807531,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter argosari 5</name>
+      <description><![CDATA[Ter argosari 5    <br>       <br>   FID   31    <br>   nama   Ter argosari 5    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   878    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254287,-7.814653,0
+          110.255371,-7.809786,0
+          110.257169,-7.809755,0
+          110.257208,-7.809741,0
+          110.257169,-7.809755,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>argomulyo 1 kanan</name>
+      <description><![CDATA[argomulyo 1 kanan    <br>       <br>   FID   32    <br>   nama   argomulyo 1 kanan    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   884    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.259935,-7.805669,0
+          110.260042,-7.805358,0
+          110.260056,-7.805357,0
+          110.260543,-7.804179,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argo 5</name>
+      <description><![CDATA[ter argo 5    <br>       <br>   FID   33    <br>   nama   ter argo 5    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   959    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.246707,-7.85111,0
+          110.246711,-7.851316,0
+          110.246974,-7.851307,0
+          110.24698,-7.851498,0
+          110.247168,-7.851715,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 15</name>
+      <description><![CDATA[ter argodadi 15    <br>       <br>   FID   34    <br>   nama   ter argodadi 15    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   963    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253705,-7.858605,0
+          110.253671,-7.858604,0
+          110.253623,-7.858595,0
+          110.252891,-7.858544,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 7</name>
+      <description><![CDATA[ter argodadi 7    <br>       <br>   FID   35    <br>   nama   ter argodadi 7    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   970    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.24943,-7.851562,0
+          110.249422,-7.851547,0
+          110.249425,-7.851549,0
+          110.249475,-7.850809,0
+          110.249523,-7.850091,0
+          110.249444,-7.850071,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argo 14</name>
+      <description><![CDATA[ter argo 14    <br>       <br>   FID   36    <br>   nama   ter argo 14    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   973    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.252687,-7.858645,0
+          110.252876,-7.858661,0
+          110.253144,-7.85642,0
+          110.253261,-7.855995,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>cor argo 5 6044</name>
+      <description><![CDATA[cor argo 5 6044    <br>       <br>   FID   37    <br>   nama   cor argo 5 6044    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   975    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249255,-7.84899,0
+          110.249472,-7.849041,0
+          110.249497,-7.849043,0
+          110.249472,-7.849041,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argo 13</name>
+      <description><![CDATA[ter argo 13    <br>       <br>   FID   38    <br>   nama   ter argo 13    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   968    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255337,-7.854895,0
+          110.252352,-7.854072,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 14</name>
+      <description><![CDATA[ter argodadi 14    <br>       <br>   FID   39    <br>   nama   ter argodadi 14    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   981    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254866,-7.856692,0
+          110.255682,-7.854047,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 5</name>
+      <description><![CDATA[ter kayuhan 5    <br>       <br>   FID   40    <br>   nama   ter kayuhan 5    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   986    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.261271,-7.862363,0
+          110.260445,-7.861857,0
+          110.259124,-7.861727,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 6D</name>
+      <description><![CDATA[ter kayuhan 6D    <br>       <br>   FID   41    <br>   nama   ter kayuhan 6D    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   987    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.262553,-7.862334,0
+          110.262087,-7.862324,0
+          110.261271,-7.862363,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 6c</name>
+      <description><![CDATA[ter kayuhan 6c    <br>       <br>   FID   42    <br>   nama   ter kayuhan 6c    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   988    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.263101,-7.868251,0
+          110.262657,-7.862544,0
+          110.262599,-7.862326,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>corongan argodadi 6</name>
+      <description><![CDATA[corongan argodadi 6    <br>       <br>   FID   43    <br>   nama   corongan argodadi 6    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   989    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255219,-7.855557,0
+          110.253717,-7.855153,0
+          110.251902,-7.854611,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>corongan argodadi 7</name>
+      <description><![CDATA[corongan argodadi 7    <br>       <br>   FID   44    <br>   nama   corongan argodadi 7    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   993    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.25516,-7.855743,0
+          110.252327,-7.854969,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang argodadi 5</name>
+      <description><![CDATA[pembuang argodadi 5    <br>       <br>   FID   45    <br>   nama   pembuang argodadi 5    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   997    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257556,-7.858441,0
+          110.257322,-7.858237,0
+          110.257083,-7.858036,0
+          110.257051,-7.858068,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 6F</name>
+      <description><![CDATA[ter kayuhan 6F    <br>       <br>   FID   46    <br>   nama   ter kayuhan 6F    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   998    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.263683,-7.866395,0
+          110.263306,-7.865699,0
+          110.263483,-7.862735,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>tersier kayuhan 6d</name>
+      <description><![CDATA[tersier kayuhan 6d    <br>       <br>   FID   47    <br>   nama   tersier kayuhan 6d    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1005    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.263483,-7.862735,0
+          110.262693,-7.862511,0
+          110.262594,-7.862336,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 1B</name>
+      <description><![CDATA[ter kayuhan 1B    <br>       <br>   FID   48    <br>   nama   ter kayuhan 1B    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1008    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.259187,-7.863354,0
+          110.259034,-7.862036,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 6B</name>
+      <description><![CDATA[ter kayuhan 6B    <br>       <br>   FID   49    <br>   nama   ter kayuhan 6B    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1012    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.261437,-7.868067,0
+          110.261674,-7.867194,0
+          110.261668,-7.866319,0
+          110.261286,-7.865156,0
+          110.260781,-7.865153,0
+          110.260734,-7.863723,0
+          110.260711,-7.86341,0
+          110.260805,-7.863198,0
+          110.261271,-7.862363,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 4</name>
+      <description><![CDATA[ter kayuhan 4    <br>       <br>   FID   50    <br>   nama   ter kayuhan 4    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1015    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.261674,-7.866305,0
+          110.260726,-7.86584,0
+          110.259504,-7.865806,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 2B</name>
+      <description><![CDATA[ter kayuhan 2B    <br>       <br>   FID   51    <br>   nama   ter kayuhan 2B    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1016    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.263396,-7.869629,0
+          110.262663,-7.869521,0
+          110.259542,-7.866138,0
+          110.259637,-7.866071,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pengurasan pembuang argodadi 2</name>
+      <description><![CDATA[pengurasan pembuang argodadi 2    <br>       <br>   FID   52    <br>   nama   pengurasan pembuang argodadi 2    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   946    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.24555,-7.85228,0
+          110.246319,-7.852218,0
+          110.246622,-7.852331,0
+          110.247234,-7.852063,0
+          110.249321,-7.851542,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang argodadi 6</name>
+      <description><![CDATA[pembuang argodadi 6    <br>       <br>   FID   53    <br>   nama   pembuang argodadi 6    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   990    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257748,-7.859427,0
+          110.25783,-7.859463,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>argorejo 3</name>
+      <description><![CDATA[argorejo 3    <br>       <br>   FID   54    <br>   nama   argorejo 3    <br>   nomenklatu   3    <br>   id_di   26672    <br>   norec   918    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255557,-7.818346,0
+          110.256026,-7.814849,0
+          110.256012,-7.814506,0
+          110.256015,-7.814587,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter argosari 1</name>
+      <description><![CDATA[Ter argosari 1    <br>       <br>   FID   55    <br>   nama   Ter argosari 1    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   885    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255619,-7.805491,0
+          110.255795,-7.805106,0
+          110.255764,-7.804734,0
+          110.256047,-7.803782,0
+          110.256791,-7.803627,0
+          110.257622,-7.803468,0
+          110.25777,-7.803488,0
+          110.257841,-7.803438,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 16</name>
+      <description><![CDATA[ter argodadi 16    <br>       <br>   FID   56    <br>   nama   ter argodadi 16    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   962    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254096,-7.858601,0
+          110.25411,-7.858577,0
+          110.254309,-7.857717,0
+          110.254091,-7.857593,0
+          110.254401,-7.857009,0
+          110.254446,-7.856954,0
+          110.253801,-7.856469,0
+          110.253268,-7.856,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 3</name>
+      <description><![CDATA[ter kayuhan 3    <br>       <br>   FID   57    <br>   nama   ter kayuhan 3    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1001    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.261643,-7.867201,0
+          110.260677,-7.86724,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter Argorejo 18</name>
+      <description><![CDATA[Ter Argorejo 18    <br>       <br>   FID   58    <br>   nama   Ter Argorejo 18    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   890    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255988,-7.825721,0
+          110.257497,-7.820882,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pemb kayuhan 3</name>
+      <description><![CDATA[pemb kayuhan 3    <br>       <br>   FID   59    <br>   nama   pemb kayuhan 3    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1021    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.263125,-7.868661,0
+          110.263085,-7.868342,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder r2</name>
+      <description><![CDATA[sekunder r2    <br>       <br>   FID   60    <br>   nama   sekunder r2    <br>   nomenklatu   bmd    <br>   id_di   26672    <br>   norec   1032    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256907,-7.807518,0
+          110.256883,-7.80737,0
+          110.256859,-7.807215,0
+          110.256965,-7.806929,0
+          110.257153,-7.806472,0
+          110.25722,-7.806322,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pengurasan pembuang gubug</name>
+      <description><![CDATA[pengurasan pembuang gubug    <br>       <br>   FID   61    <br>   nama   pengurasan pembuang gubug    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1024    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.259268,-7.798043,0
+          110.260297,-7.798452,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>argomulyo 1 ki</name>
+      <description><![CDATA[argomulyo 1 ki    <br>       <br>   FID   62    <br>   nama   argomulyo 1 ki    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   872    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.261274,-7.803548,0
+          110.261208,-7.803844,0
+          110.260741,-7.804073,0
+          110.26054,-7.804166,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argo 12</name>
+      <description><![CDATA[ter argo 12    <br>       <br>   FID   63    <br>   nama   ter argo 12    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   967    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256618,-7.854214,0
+          110.25572,-7.853984,0
+          110.255692,-7.854024,0
+          110.253947,-7.853303,0
+          110.253896,-7.853472,0
+          110.252423,-7.853249,0
+          110.252313,-7.854072,0
+          110.251536,-7.854263,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 2A</name>
+      <description><![CDATA[ter kayuhan 2A    <br>       <br>   FID   64    <br>   nama   ter kayuhan 2A    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1013    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.263101,-7.869448,0
+          110.262731,-7.869366,0
+          110.25986,-7.866308,0
+          110.259554,-7.865835,0
+          110.259124,-7.861727,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang argodadi 8 mati</name>
+      <description><![CDATA[pembuang argodadi 8 mati    <br>       <br>   FID   65    <br>   nama   pembuang argodadi 8 mati    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   994    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256606,-7.858141,0
+          110.25666,-7.857958,0
+          110.256681,-7.85791,0
+          110.256612,-7.85784,0
+          110.256577,-7.857827,0
+          110.256545,-7.857809,0
+          110.256496,-7.857788,0
+          110.256568,-7.857692,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 2B</name>
+      <description><![CDATA[ter kayuhan 2B    <br>       <br>   FID   66    <br>   nama   ter kayuhan 2B    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1002    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.259105,-7.866634,0
+          110.258811,-7.866621,0
+          110.259105,-7.866634,0
+          110.259478,-7.866488,0
+          110.259393,-7.865754,0
+          110.259323,-7.864827,0
+          110.25945,-7.864824,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder r11b</name>
+      <description><![CDATA[Sekunder r11b    <br>       <br>   FID   67    <br>   nama   Sekunder r11b    <br>   nomenklatu   s11b    <br>   id_di   26672    <br>   norec   1066    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.252358,-7.840108,0
+          110.253127,-7.839593,0
+          110.253382,-7.839293,0
+          110.253626,-7.838966,0
+          110.253781,-7.838695,0
+          110.253929,-7.8384,0
+          110.254101,-7.83798,0
+          110.254339,-7.837547,0
+          110.254511,-7.837335,0
+          110.254709,-7.837103,0
+          110.254846,-7.837026,0
+          110.254978,-7.836978,0
+          110.255101,-7.836928,0
+          110.255468,-7.836705,0
+          110.255493,-7.836463,0
+          110.255534,-7.835738,0
+          110.255651,-7.835655,0
+          110.255769,-7.835573,0
+          110.255844,-7.835344,0
+          110.256007,-7.835153,0
+          110.25617,-7.834962,0
+          110.256295,-7.834899,0
+          110.256488,-7.834861,0
+          110.256592,-7.834847,0
+          110.256588,-7.834461,0
+          110.256599,-7.834025,0
+          110.256554,-7.833857,0
+          110.256401,-7.833652,0
+          110.256248,-7.833447,0
+          110.256106,-7.833267,0
+          110.256165,-7.833063,0
+          110.255638,-7.832956,0
+          110.255662,-7.832965,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R23</name>
+      <description><![CDATA[Sekunder R23    <br>       <br>   FID   68    <br>   nama   Sekunder R23    <br>   nomenklatu   r23    <br>   id_di   26672    <br>   norec   1054    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.25097,-7.853814,0
+          110.25094,-7.853522,0
+          110.25089,-7.853269,0
+          110.250853,-7.853223,0
+          110.250796,-7.853192,0
+          110.250732,-7.853175,0
+          110.250675,-7.853162,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 10</name>
+      <description><![CDATA[ter argodadi 10    <br>       <br>   FID   69    <br>   nama   ter argodadi 10    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   950    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250828,-7.854815,0
+          110.251183,-7.85482,0
+          110.251754,-7.854665,0
+          110.251902,-7.854611,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pemb argodadi</name>
+      <description><![CDATA[pemb argodadi    <br>       <br>   FID   70    <br>   nama   pemb argodadi    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   954    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.247167,-7.851714,0
+          110.247605,-7.848153,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pemb argorejo</name>
+      <description><![CDATA[pemb argorejo    <br>       <br>   FID   71    <br>   nama   pemb argorejo    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   929    <br>   k_aset   S17]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253237,-7.835608,0
+          110.254021,-7.833566,0
+          110.25411,-7.833007,0
+          110.254292,-7.832435,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 2</name>
+      <description><![CDATA[ter argodadi 2    <br>       <br>   FID   72    <br>   nama   ter argodadi 2    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   932    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249813,-7.843896,0
+          110.249833,-7.842324,0
+          110.250239,-7.841678,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>cor argodadi 3</name>
+      <description><![CDATA[cor argodadi 3    <br>       <br>   FID   73    <br>   nama   cor argodadi 3    <br>   nomenklatu   3    <br>   id_di   26672    <br>   norec   933    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250271,-7.844292,0
+          110.250265,-7.843782,0
+          110.250282,-7.843662,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 3</name>
+      <description><![CDATA[ter argodadi 3    <br>       <br>   FID   74    <br>   nama   ter argodadi 3    <br>   nomenklatu   3    <br>   id_di   26672    <br>   norec   936    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.252988,-7.845503,0
+          110.252909,-7.845383,0
+          110.252078,-7.845253,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 5</name>
+      <description><![CDATA[ter argodadi 5    <br>       <br>   FID   75    <br>   nama   ter argodadi 5    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   937    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.247605,-7.848153,0
+          110.249588,-7.848379,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pengurasan pembuang argodadi</name>
+      <description><![CDATA[pengurasan pembuang argodadi    <br>       <br>   FID   76    <br>   nama   pengurasan pembuang argodadi    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   940    <br>   k_aset   S17]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.248962,-7.847255,0
+          110.249041,-7.847262,0
+          110.249812,-7.847297,0
+          110.249715,-7.847891,0
+          110.249759,-7.847899,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 5</name>
+      <description><![CDATA[ter argodadi 5    <br>       <br>   FID   77    <br>   nama   ter argodadi 5    <br>   nomenklatu   5    <br>   id_di   26672    <br>   norec   941    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.247052,-7.848077,0
+          110.247605,-7.848153,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang argodadi 3</name>
+      <description><![CDATA[pembuang argodadi 3    <br>       <br>   FID   78    <br>   nama   pembuang argodadi 3    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   978    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256658,-7.852488,0
+          110.257153,-7.852649,0
+          110.25672,-7.854193,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang argomulyo</name>
+      <description><![CDATA[pembuang argomulyo    <br>       <br>   FID   79    <br>   nama   pembuang argomulyo    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   879    <br>   k_aset   S17]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254683,-7.808087,0
+          110.255783,-7.808257,0
+          110.256907,-7.808304,0
+          110.257027,-7.808307,0
+          110.257021,-7.808251,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 13</name>
+      <description><![CDATA[ter argorejo 13    <br>       <br>   FID   80    <br>   nama   ter argorejo 13    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   895    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.251149,-7.826629,0
+          110.251748,-7.825042,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 11</name>
+      <description><![CDATA[ter argorejo 11    <br>       <br>   FID   81    <br>   nama   ter argorejo 11    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   896    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254087,-7.823953,0
+          110.254089,-7.823953,0
+          110.255055,-7.824082,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 21</name>
+      <description><![CDATA[ter argorejo 21    <br>       <br>   FID   82    <br>   nama   ter argorejo 21    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   899    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253607,-7.828313,0
+          110.254573,-7.828487,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argosari 4</name>
+      <description><![CDATA[ter argosari 4    <br>       <br>   FID   83    <br>   nama   ter argosari 4    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   903    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.25917,-7.812636,0
+          110.25836,-7.811158,0
+          110.257326,-7.809269,0
+          110.257236,-7.809245,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 10</name>
+      <description><![CDATA[ter argorejo 10    <br>       <br>   FID   85    <br>   nama   ter argorejo 10    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   909    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250616,-7.823351,0
+          110.250984,-7.823817,0
+          110.251042,-7.824241,0
+          110.251748,-7.825095,0
+          110.252176,-7.825219,0
+          110.252788,-7.825385,0
+          110.253196,-7.823875,0
+          110.254087,-7.823953,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 8</name>
+      <description><![CDATA[ter argorejo 8    <br>       <br>   FID   86    <br>   nama   ter argorejo 8    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   913    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254286,-7.822258,0
+          110.253924,-7.82225,0
+          110.253896,-7.822502,0
+          110.254238,-7.822727,0
+          110.25479,-7.822696,0
+          110.254909,-7.822899,0
+          110.255408,-7.823082,0
+          110.255647,-7.822331,0
+          110.255894,-7.821664,0
+          110.256167,-7.820963,0
+          110.256452,-7.820267,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>argorejo 2</name>
+      <description><![CDATA[argorejo 2    <br>       <br>   FID   87    <br>   nama   argorejo 2    <br>   nomenklatu   4    <br>   id_di   26672    <br>   norec   915    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254608,-7.818415,0
+          110.255078,-7.814668,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argo 14</name>
+      <description><![CDATA[ter argo 14    <br>       <br>   FID   88    <br>   nama   ter argo 14    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   919    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.253873,-7.825437,0
+          110.254737,-7.825517,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo baru 1</name>
+      <description><![CDATA[ter argorejo baru 1    <br>       <br>   FID   89    <br>   nama   ter argorejo baru 1    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   920    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254195,-7.832055,0
+          110.254194,-7.832038,0
+          110.25419,-7.83205,0
+          110.254457,-7.82846,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter Argorejo 17</name>
+      <description><![CDATA[Ter Argorejo 17    <br>       <br>   FID   90    <br>   nama   Ter Argorejo 17    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   891    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256031,-7.823302,0
+          110.256798,-7.820832,0
+          110.256815,-7.820783,0
+          110.256842,-7.820708,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder r8</name>
+      <description><![CDATA[sekunder r8    <br>       <br>   FID   91    <br>   nama   sekunder r8    <br>   nomenklatu   bmd    <br>   id_di   26672    <br>   norec   1038    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256422,-7.820554,0
+          110.256454,-7.820476,0
+          110.256544,-7.820265,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 12</name>
+      <description><![CDATA[ter argorejo 12    <br>       <br>   FID   92    <br>   nama   ter argorejo 12    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   892    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250572,-7.826615,0
+          110.250901,-7.824329,0
+          110.251048,-7.824233,0
+          110.251058,-7.824236,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 9</name>
+      <description><![CDATA[ter argorejo 9    <br>       <br>   FID   93    <br>   nama   ter argorejo 9    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   910    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254295,-7.827953,0
+          110.2543,-7.827068,0
+          110.25538,-7.823166,0
+          110.255404,-7.823077,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter Argosari 3</name>
+      <description><![CDATA[Ter Argosari 3    <br>       <br>   FID   94    <br>   nama   Ter Argosari 3    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   883    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255578,-7.809177,0
+          110.255791,-7.80825,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Saluram Primer Madean</name>
+      <description><![CDATA[Saluram Primer Madean    <br>       <br>   FID   95    <br>   nama   Saluram Primer Madean    <br>   nomenklatu   BMd0  BMd1    <br>   id_di   26672    <br>   norec   1    <br>   k_aset   S01]]></description>
+      <styleUrl>#line-A80000-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257848,-7.80344,0
+          110.257821,-7.80312,0
+          110.257842,-7.803056,0
+          110.258112,-7.802542,0
+          110.258358,-7.802076,0
+          110.258432,-7.801938,0
+          110.258466,-7.801879,0
+          110.258548,-7.801723,0
+          110.258589,-7.801646,0
+          110.258668,-7.801506,0
+          110.258717,-7.80142,0
+          110.258743,-7.801351,0
+          110.258771,-7.801298,0
+          110.258868,-7.801116,0
+          110.258907,-7.801044,0
+          110.259029,-7.800815,0
+          110.259037,-7.8008,0
+          110.259081,-7.800717,0
+          110.259108,-7.800666,0
+          110.259209,-7.800476,0
+          110.259237,-7.800424,0
+          110.259255,-7.800391,0
+          110.259309,-7.80029,0
+          110.259361,-7.800192,0
+          110.259382,-7.800152,0
+          110.259412,-7.800094,0
+          110.259419,-7.800081,0
+          110.259481,-7.79996,0
+          110.259514,-7.799896,0
+          110.259552,-7.799823,0
+          110.259608,-7.799714,0
+          110.259702,-7.799533,0
+          110.25974,-7.799468,0
+          110.259742,-7.799465,0
+          110.259793,-7.799378,0
+          110.259834,-7.799308,0
+          110.259869,-7.79924,0
+          110.259965,-7.79905,0
+          110.259995,-7.798993,0
+          110.259995,-7.798992,0
+          110.260063,-7.798867,0
+          110.26012,-7.798763,0
+          110.260166,-7.798678,0
+          110.260207,-7.798603,0
+          110.260254,-7.798517,0
+          110.260403,-7.798243,0
+          110.260417,-7.798216,0
+          110.260421,-7.79821,0
+          110.260523,-7.798022,0
+          110.26054,-7.797991,0
+          110.260568,-7.797917,0
+          110.260579,-7.797896,0
+          110.260652,-7.79776,0
+          110.260681,-7.797708,0
+          110.2607,-7.797672,0
+          110.260715,-7.797645,0
+          110.260715,-7.797625,0
+          110.260716,-7.797604,0
+          110.260704,-7.797594,0
+          110.260677,-7.79757,0
+          110.260624,-7.797523,0
+          110.260539,-7.797463,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pemb kayuhan 2</name>
+      <description><![CDATA[pemb kayuhan 2    <br>       <br>   FID   96    <br>   nama   pemb kayuhan 2    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1019    <br>   k_aset   S11]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.262895,-7.867031,0
+          110.261578,-7.867603,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>tersier kayuhan 6E</name>
+      <description><![CDATA[tersier kayuhan 6E    <br>       <br>   FID   97    <br>   nama   tersier kayuhan 6E    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1007    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.265223,-7.862932,0
+          110.263483,-7.862735,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder R23b</name>
+      <description><![CDATA[sekunder R23b    <br>       <br>   FID   98    <br>   nama   sekunder R23b    <br>   nomenklatu   R23b    <br>   id_di   26672    <br>   norec   1050    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.251566,-7.854291,0
+          110.251318,-7.854092,0
+          110.251172,-7.853955,0
+          110.250973,-7.853822,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter kayuhan 7</name>
+      <description><![CDATA[ter kayuhan 7    <br>       <br>   FID   99    <br>   nama   ter kayuhan 7    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1009    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.261342,-7.864905,0
+          110.26141,-7.862938,0
+          110.261503,-7.862318,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder r7</name>
+      <description><![CDATA[sekunder r7    <br>       <br>   FID   100    <br>   nama   sekunder r7    <br>   nomenklatu   bmd    <br>   id_di   26672    <br>   norec   1039    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256549,-7.820269,0
+          110.256669,-7.819968,0
+          110.256789,-7.819667,0
+          110.256899,-7.81919,0
+          110.256938,-7.81902,0
+          110.256914,-7.818904,0
+          110.256912,-7.818709,0
+          110.256912,-7.818461,0
+          110.256913,-7.8183,0
+          110.256916,-7.817978,0
+          110.256915,-7.817782,0
+          110.256913,-7.817684,0
+          110.256909,-7.817489,0
+          110.256925,-7.816018,0
+          110.256924,-7.81535,0
+          110.256922,-7.814682,0
+          110.256924,-7.814524,0
+          110.25693,-7.814392,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>tersier kayuhan 1A</name>
+      <description><![CDATA[tersier kayuhan 1A    <br>       <br>   FID   101    <br>   nama   tersier kayuhan 1A    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1014    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257701,-7.860557,0
+          110.257797,-7.861025,0
+          110.259034,-7.862036,0
+          110.259158,-7.862085,0
+          110.259034,-7.862036,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder r3</name>
+      <description><![CDATA[sekunder r3    <br>       <br>   FID   102    <br>   nama   sekunder r3    <br>   nomenklatu   bmd    <br>   id_di   26672    <br>   norec   1037    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257233,-7.809246,0
+          110.256965,-7.807812,0
+          110.256948,-7.807713,0
+          110.256933,-7.807624,0
+          110.25691,-7.807532,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>cor argodadi 4</name>
+      <description><![CDATA[cor argodadi 4    <br>       <br>   FID   103    <br>   nama   cor argodadi 4    <br>   nomenklatu   4    <br>   id_di   26672    <br>   norec   951    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.247363,-7.849366,0
+          110.249464,-7.849644,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>argorejo 4</name>
+      <description><![CDATA[argorejo 4    <br>       <br>   FID   104    <br>   nama   argorejo 4    <br>   nomenklatu   5    <br>   id_di   26672    <br>   norec   900    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255761,-7.817435,0
+          110.255762,-7.817436,0
+          110.255833,-7.817425,0
+          110.255985,-7.817425,0
+          110.256529,-7.817445,0
+          110.256917,-7.817651,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 6</name>
+      <description><![CDATA[ter argodadi 6    <br>       <br>   FID   105    <br>   nama   ter argodadi 6    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   943    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.247289,-7.850774,0
+          110.249379,-7.850927,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>cor argodadi 2</name>
+      <description><![CDATA[cor argodadi 2    <br>       <br>   FID   106    <br>   nama   cor argodadi 2    <br>   nomenklatu   2    <br>   id_di   26672    <br>   norec   923    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250423,-7.841324,0
+          110.250244,-7.841697,0
+          110.250573,-7.84176,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder r10</name>
+      <description><![CDATA[sekunder r10    <br>       <br>   FID   107    <br>   nama   sekunder r10    <br>   nomenklatu   S10    <br>   id_di   26672    <br>   norec   1068    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254571,-7.828485,0
+          110.254432,-7.827808,0
+          110.254427,-7.827643,0
+          110.254468,-7.827119,0
+          110.254549,-7.826696,0
+          110.25463,-7.826273,0
+          110.254754,-7.825913,0
+          110.254878,-7.825553,0
+          110.255396,-7.823594,0
+          110.255456,-7.823368,0
+          110.255475,-7.823295,0
+          110.255491,-7.823222,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R16</name>
+      <description><![CDATA[Sekunder R16    <br>       <br>   FID   108    <br>   nama   Sekunder R16    <br>   nomenklatu   r16    <br>   id_di   26672    <br>   norec   1065    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249778,-7.847905,0
+          110.249888,-7.847874,0
+          110.249927,-7.847776,0
+          110.249926,-7.847683,0
+          110.249975,-7.847612,0
+          110.250345,-7.847355,0
+          110.250443,-7.847309,0
+          110.250571,-7.847279,0
+          110.250851,-7.847232,0
+          110.251069,-7.847097,0
+          110.251155,-7.847027,0
+          110.251735,-7.8466,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R28</name>
+      <description><![CDATA[Sekunder R28    <br>       <br>   FID   109    <br>   nama   Sekunder R28    <br>   nomenklatu   SR28    <br>   id_di   26672    <br>   norec   1048    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.259119,-7.861734,0
+          110.258992,-7.861737,0
+          110.258985,-7.86138,0
+          110.258963,-7.861026,0
+          110.258443,-7.861013,0
+          110.258243,-7.861002,0
+          110.258176,-7.860968,0
+          110.258149,-7.860903,0
+          110.258161,-7.860746,0
+          110.258159,-7.860585,0
+          110.257882,-7.860565,0
+          110.257698,-7.860553,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 9</name>
+      <description><![CDATA[ter argodadi 9    <br>       <br>   FID   110    <br>   nama   ter argodadi 9    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   947    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250448,-7.855054,0
+          110.250383,-7.854761,0
+          110.250449,-7.854308,0
+          110.250525,-7.853969,0
+          110.250659,-7.85317,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder r5</name>
+      <description><![CDATA[sekunder r5    <br>       <br>   FID   111    <br>   nama   sekunder r5    <br>   nomenklatu   bmd    <br>   id_di   26672    <br>   norec   1033    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.25681,-7.814359,0
+          110.256831,-7.814229,0
+          110.256874,-7.814199,0
+          110.256874,-7.814104,0
+          110.25715,-7.810596,0
+          110.257149,-7.810595,0
+          110.257208,-7.809772,0
+          110.257211,-7.809751,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 23</name>
+      <description><![CDATA[ter argorejo 23    <br>       <br>   FID   112    <br>   nama   ter argorejo 23    <br>   nomenklatu   23    <br>   id_di   26672    <br>   norec   924    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256132,-7.83313,0
+          110.255714,-7.833031,0
+          110.255655,-7.832965,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>cor argodadi 1</name>
+      <description><![CDATA[cor argodadi 1    <br>       <br>   FID   113    <br>   nama   cor argodadi 1    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   927    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.251117,-7.836706,0
+          110.250759,-7.83749,0
+          110.251005,-7.837574,0
+          110.250641,-7.839011,0
+          110.251538,-7.83946,0
+          110.251454,-7.839614,0
+          110.252384,-7.840058,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argorejo 22</name>
+      <description><![CDATA[ter argorejo 22    <br>       <br>   FID   114    <br>   nama   ter argorejo 22    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   928    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255566,-7.833358,0
+          110.255655,-7.832965,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>argodadi 4</name>
+      <description><![CDATA[argodadi 4    <br>       <br>   FID   115    <br>   nama   argodadi 4    <br>   nomenklatu   4    <br>   id_di   26672    <br>   norec   942    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249859,-7.847261,0
+          110.249775,-7.847843,0
+          110.249789,-7.847899,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder kanan r6</name>
+      <description><![CDATA[sekunder kanan r6    <br>       <br>   FID   116    <br>   nama   sekunder kanan r6    <br>   nomenklatu   bmd    <br>   id_di   26672    <br>   norec   1040    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.256929,-7.814377,0
+          110.256881,-7.814371,0
+          110.2568,-7.814367,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder r9</name>
+      <description><![CDATA[sekunder r9    <br>       <br>   FID   117    <br>   nama   sekunder r9    <br>   nomenklatu   bmd    <br>   id_di   26672    <br>   norec   1041    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255493,-7.823214,0
+          110.255518,-7.823101,0
+          110.255702,-7.822445,0
+          110.255937,-7.821816,0
+          110.256167,-7.82118,0
+          110.256234,-7.821024,0
+          110.2563,-7.820868,0
+          110.256358,-7.820727,0
+          110.256393,-7.820634,0
+          110.256423,-7.820556,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argo 11</name>
+      <description><![CDATA[ter argo 11    <br>       <br>   FID   118    <br>   nama   ter argo 11    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   974    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.25318,-7.855933,0
+          110.253182,-7.855942,0
+          110.253184,-7.855934,0
+          110.252016,-7.854886,0
+          110.251056,-7.853947,0
+          110.250985,-7.853832,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder madean</name>
+      <description><![CDATA[sekunder madean    <br>       <br>   FID   119    <br>   nama   sekunder madean    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   1025    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257224,-7.806312,0
+          110.257247,-7.806235,0
+          110.257294,-7.806125,0
+          110.257412,-7.805851,0
+          110.257864,-7.804823,0
+          110.257932,-7.804674,0
+          110.257849,-7.803446,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ter argodadi 8</name>
+      <description><![CDATA[ter argodadi 8    <br>       <br>   FID   120    <br>   nama   ter argodadi 8    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   955    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.249665,-7.852643,0
+          110.2499,-7.852909,0
+          110.250041,-7.852832,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>sekunder r4</name>
+      <description><![CDATA[sekunder r4    <br>       <br>   FID   121    <br>   nama   sekunder r4    <br>   nomenklatu   bmd    <br>   id_di   26672    <br>   norec   1036    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.257212,-7.809739,0
+          110.257215,-7.809641,0
+          110.257233,-7.809376,0
+          110.257233,-7.809258,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>pembuang argodadi 2</name>
+      <description><![CDATA[pembuang argodadi 2    <br>       <br>   FID   122    <br>   nama   pembuang argodadi 2    <br>   nomenklatu   1    <br>   id_di   26672    <br>   norec   984    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-757575-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.254758,-7.857024,0
+          110.254851,-7.856738,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ter argosari 3 kanan</name>
+      <description><![CDATA[Ter argosari 3 kanan    <br>       <br>   FID   123    <br>   nama   Ter argosari 3 kanan    <br>   nomenklatu   5    <br>   id_di   26672    <br>   norec   882    <br>   k_aset   S15]]></description>
+      <styleUrl>#line-097138-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.255983,-7.807501,0
+          110.256793,-7.807543,0
+          110.256886,-7.807531,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R13</name>
+      <description><![CDATA[Sekunder R13    <br>       <br>   FID   124    <br>   nama   Sekunder R13    <br>   nomenklatu   Sr13    <br>   id_di   26672    <br>   norec   1060    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.250272,-7.843673,0
+          110.25026,-7.843615,0
+          110.250195,-7.842907,0
+          110.25004,-7.842643,0
+          110.249936,-7.84252,0
+          110.249961,-7.84245,0
+          110.250001,-7.842391,0
+          110.250133,-7.842235,0
+          110.250376,-7.84199,0
+          110.25047,-7.841878,0
+          110.25052,-7.841814,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder R14</name>
+      <description><![CDATA[Sekunder R14    <br>       <br>   FID   125    <br>   nama   Sekunder R14    <br>   nomenklatu   Sr14    <br>   id_di   26672    <br>   norec   1071    <br>   k_aset   S02]]></description>
+      <styleUrl>#line-1A237E-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          110.252065,-7.845266,0
+          110.252092,-7.845101,0
+          110.252062,-7.844926,0
+          110.251995,-7.844599,0
+          110.251904,-7.843928,0
+          110.251624,-7.843884,0
+          110.251344,-7.843765,0
+          110.251019,-7.843669,0
+          110.250478,-7.843722,0
+          110.250396,-7.843712,0
+          110.250277,-7.843671,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

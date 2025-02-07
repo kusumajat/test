@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nonsaluran</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-757575-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-757575-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-757575">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-757575-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-757575-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>pembuang primer</name>
+      <description><![CDATA[pembuang primer    <br>       <br>   FID   0    <br>   nama   pembuang primer    <br>   nomenklatu   bpd    <br>   id_di   26647    <br>   norec   131    <br>   k_aset   S11    <br>   icon]]></description>
+      <styleUrl>#icon-1739-757575</styleUrl>
+      <Point>
+        <coordinates>
+          110.414418,-7.766283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>sadap</name>
+      <description><![CDATA[sadap    <br>       <br>   FID   1    <br>   nama   sadap    <br>   nomenklatu   Jeruklegi    <br>   id_di   26647    <br>   norec   62    <br>   k_aset   C15    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.405869,-7.792051,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

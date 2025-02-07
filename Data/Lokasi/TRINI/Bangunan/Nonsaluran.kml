@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nonsaluran</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bendung.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/bendung.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   0    <br>   nama   Sadap    <br>   nomenklatu   BSTNTg2    <br>   id_di   26653    <br>   norec   78    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.350682,-7.782079,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sumberan 2</name>
+      <description><![CDATA[Tersier Sumberan 2    <br>       <br>   FID   1    <br>   nama   Tersier Sumberan 2    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   351    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.350688,-7.782016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sumberan</name>
+      <description><![CDATA[Tersier Sumberan    <br>       <br>   FID   2    <br>   nama   Tersier Sumberan    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   352    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.348332,-7.788522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   3    <br>   nama   Sadap    <br>   nomenklatu   BSTNKi2    <br>   id_di   26653    <br>   norec   70    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.351454,-7.775602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap     <br>       <br>   FID   4    <br>   nama   Sadap    <br>   nomenklatu   BSTNKi3    <br>   id_di   26653    <br>   norec   71    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.351857,-7.775829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   5    <br>   nama   Sadap    <br>   nomenklatu   BSTNTg5    <br>   id_di   26653    <br>   norec   91    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.348819,-7.792131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Baturan 3</name>
+      <description><![CDATA[Tersier Baturan 3    <br>       <br>   FID   6    <br>   nama   Tersier Baturan 3    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   201    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.348353,-7.762908,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Panggungan</name>
+      <description><![CDATA[Tersier Panggungan    <br>       <br>   FID   7    <br>   nama   Tersier Panggungan    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   203    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.348211,-7.767248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Panggungan 2</name>
+      <description><![CDATA[Tersier Panggungan 2    <br>       <br>   FID   8    <br>   nama   Tersier Panggungan 2    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   205    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.346026,-7.767645,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Biru</name>
+      <description><![CDATA[Tersier Biru    <br>       <br>   FID   9    <br>   nama   Tersier Biru    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   206    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.343713,-7.765672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Biru 3</name>
+      <description><![CDATA[Tersier Biru 3    <br>       <br>   FID   10    <br>   nama   Tersier Biru 3    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   207    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.343752,-7.768269,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Kwarasan</name>
+      <description><![CDATA[Sadap Kwarasan    <br>       <br>   FID   11    <br>   nama   Sadap Kwarasan    <br>   nomenklatu   SdpKWRSN    <br>   id_di   26653    <br>   norec   208    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.346454,-7.770156,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Besole</name>
+      <description><![CDATA[Tersier Besole    <br>       <br>   FID   12    <br>   nama   Tersier Besole    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   209    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.344121,-7.771897,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder Tambak 1</name>
+      <description><![CDATA[Sekunder Tambak 1    <br>       <br>   FID   13    <br>   nama   Sekunder Tambak 1    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   210    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.349686,-7.768116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Tegalrejo</name>
+      <description><![CDATA[Tersier Tegalrejo    <br>       <br>   FID   14    <br>   nama   Tersier Tegalrejo    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   212    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.350995,-7.784082,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pembuang Bener</name>
+      <description><![CDATA[Pembuang Bener    <br>       <br>   FID   15    <br>   nama   Pembuang Bener    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   213    <br>   k_aset   C14    <br>   icon   0047]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.351138,-7.780364,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Sumberan 2</name>
+      <description><![CDATA[Tersier Sumberan 2    <br>       <br>   FID   16    <br>   nama   Tersier Sumberan 2    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   214    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.349933,-7.781972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Kutopadan</name>
+      <description><![CDATA[Tersier Kutopadan    <br>       <br>   FID   17    <br>   nama   Tersier Kutopadan    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   215    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.348128,-7.793181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Bener 1</name>
+      <description><![CDATA[Tersier Bener 1    <br>       <br>   FID   18    <br>   nama   Tersier Bener 1    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   218    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.350997,-7.776778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Bener 2</name>
+      <description><![CDATA[Tersier Bener 2    <br>       <br>   FID   19    <br>   nama   Tersier Bener 2    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   219    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.351242,-7.780877,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Cungkuk Cabang</name>
+      <description><![CDATA[Tersier Cungkuk Cabang    <br>       <br>   FID   20    <br>   nama   Tersier Cungkuk Cabang    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   221    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.347199,-7.793808,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Bener 3</name>
+      <description><![CDATA[Tersier Bener 3    <br>       <br>   FID   21    <br>   nama   Tersier Bener 3    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   300    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.351883,-7.777294,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Baturan 2</name>
+      <description><![CDATA[Tersier Baturan 2    <br>       <br>   FID   22    <br>   nama   Tersier Baturan 2    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   303    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.349944,-7.765785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Pangungan 2</name>
+      <description><![CDATA[Sadap Pangungan 2    <br>       <br>   FID   23    <br>   nama   Sadap Pangungan 2    <br>   nomenklatu   BSTNKa PGN 2    <br>   id_di   26653    <br>   norec   15    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.346788,-7.764191,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Baturan 2</name>
+      <description><![CDATA[Tersier Baturan 2    <br>       <br>   FID   24    <br>   nama   Tersier Baturan 2    <br>   nomenklatu   BTR 2    <br>   id_di   26653    <br>   norec   333    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.349646,-7.764851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Akhir</name>
+      <description><![CDATA[Bangunan Akhir    <br>       <br>   FID   25    <br>   nama   Bangunan Akhir    <br>   nomenklatu   BSTNKa10    <br>   id_di   26653    <br>   norec   53    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.34968,-7.770322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Tambak 1</name>
+      <description><![CDATA[Akhir Tersier Tambak 1    <br>       <br>   FID   26    <br>   nama   Akhir Tersier Tambak 1    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   342    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.347673,-7.780587,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   27    <br>   nama   Sadap    <br>   nomenklatu   BSTNTg3    <br>   id_di   26653    <br>   norec   86    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.349518,-7.78963,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bendung Trini</name>
+      <description><![CDATA[Bendung Trini    <br>       <br>   FID   28    <br>   nama   Bendung Trini    <br>   nomenklatu   BTN0    <br>   id_di   26653    <br>   norec   1    <br>   k_aset   B01    <br>   icon   0063]]></description>
+      <styleUrl>#icon-1502-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.352052,-7.753181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi</name>
+      <description><![CDATA[Bagi    <br>       <br>   FID   29    <br>   nama   Bagi    <br>   nomenklatu   BTN1    <br>   id_di   26653    <br>   norec   8    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.349014,-7.762523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   30    <br>   nama   Sadap    <br>   nomenklatu   BTN2    <br>   id_di   26653    <br>   norec   34    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.350502,-7.767292,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   31    <br>   nama   Sadap    <br>   nomenklatu   BSTNKa9    <br>   id_di   26653    <br>   norec   49    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.350995,-7.770548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   32    <br>   nama   Sadap    <br>   nomenklatu   CrTN1    <br>   id_di   26653    <br>   norec   5    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.350003,-7.759903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Saluran Sekunder Tambak 4</name>
+      <description><![CDATA[Akhir Saluran Sekunder Tambak 4    <br>       <br>   FID   33    <br>   nama   Akhir Saluran Sekunder Tambak 4    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   324    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.353478,-7.786952,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   34    <br>   nama   Sadap    <br>   nomenklatu   BSTNBTRN 4Ka2    <br>   id_di   26653    <br>   norec   12    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.347717,-7.7633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Tersier Baturan 4</name>
+      <description><![CDATA[Akhir Tersier Baturan 4    <br>       <br>   FID   35    <br>   nama   Akhir Tersier Baturan 4    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   334    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.350112,-7.76665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Sekunder Tambak 2 Kiri</name>
+      <description><![CDATA[Akhir Sekunder Tambak 2 Kiri    <br>       <br>   FID   36    <br>   nama   Akhir Sekunder Tambak 2 Kiri    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   319    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.349998,-7.776564,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Patangpuluhan</name>
+      <description><![CDATA[Tersier Patangpuluhan    <br>       <br>   FID   37    <br>   nama   Tersier Patangpuluhan    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   222    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.347372,-7.812933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sekunder Kiri Tambak 3</name>
+      <description><![CDATA[Sekunder Kiri Tambak 3    <br>       <br>   FID   38    <br>   nama   Sekunder Kiri Tambak 3    <br>   nomenklatu   0    <br>   id_di   26653    <br>   norec   217    <br>   k_aset   P01    <br>   icon   0067]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.353434,-7.776537,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Baturan3</name>
+      <description><![CDATA[Sadap Baturan3    <br>       <br>   FID   39    <br>   nama   Sadap Baturan3    <br>   nomenklatu   BSTNBTRN 3Ka1    <br>   id_di   26653    <br>   norec   10    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.348809,-7.762637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Mbiru</name>
+      <description><![CDATA[Sadap Mbiru    <br>       <br>   FID   40    <br>   nama   Sadap Mbiru    <br>   nomenklatu   BSTNKaMBR 34    <br>   id_di   26653    <br>   norec   16    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.346023,-7.765383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Panggungan Kanan</name>
+      <description><![CDATA[Sadap Panggungan Kanan    <br>       <br>   FID   41    <br>   nama   Sadap Panggungan Kanan    <br>   nomenklatu   BSTNPanggunganKa5    <br>   id_di   26653    <br>   norec   18    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.345713,-7.766086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap Pangungan 3</name>
+      <description><![CDATA[Sadap Pangungan 3    <br>       <br>   FID   42    <br>   nama   Sadap Pangungan 3    <br>   nomenklatu   BSTNKaPGNGN 36    <br>   id_di   26653    <br>   norec   19    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.345473,-7.766928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   43    <br>   nama   Sadap    <br>   nomenklatu   BSTNKi1    <br>   id_di   26653    <br>   norec   68    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.351415,-7.77548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Corongan Besole 1</name>
+      <description><![CDATA[Corongan Besole 1    <br>       <br>   FID   44    <br>   nama   Corongan Besole 1    <br>   nomenklatu   CrBSTNKa7    <br>   id_di   26653    <br>   norec   20    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.344969,-7.7686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Akhir</name>
+      <description><![CDATA[Bangunan Akhir    <br>       <br>   FID   45    <br>   nama   Bangunan Akhir    <br>   nomenklatu   BSTNKi4    <br>   id_di   26653    <br>   norec   72    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.352587,-7.776178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Baturan 2</name>
+      <description><![CDATA[Tersier Baturan 2    <br>       <br>   FID   46    <br>   nama   Tersier Baturan 2    <br>   nomenklatu   BTR 2    <br>   id_di   26653    <br>   norec   332    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.349646,-7.764851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

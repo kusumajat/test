@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NON_SALURAN</name>
+    <Style id="icon-1499-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   0    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ki 9    <br>   id_di   26641    <br>   norec   240    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.483083,-7.810733,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saluran Tersier</name>
+      <description><![CDATA[Saluran Tersier    <br>       <br>   FID   1    <br>   nama   Saluran Tersier    <br>   nomenklatu   0    <br>   id_di   26641    <br>   norec   513    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-AFB42B</styleUrl>
+      <Point>
+        <coordinates>
+          110.461923,-7.821097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   2    <br>   nama   Sadap    <br>   nomenklatu   BGn ka 10 ki    <br>   id_di   26641    <br>   norec   66    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.461923,-7.821097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   3    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   244    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.482342,-7.813744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   4    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   285    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.482856,-7.828251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   5    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   287    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.482509,-7.814635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   6    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   288    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.482916,-7.814738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   7    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   289    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.483433,-7.814858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   8    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   290    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.483875,-7.814971,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   9    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   291    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.483724,-7.815468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   10    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   292    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.483097,-7.817834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   11    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   293    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.48265,-7.819914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   12    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   295    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.485476,-7.818413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   13    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   296    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.483482,-7.816684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   14    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   298    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.484414,-7.82114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   15    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   300    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.484432,-7.818058,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   16    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   302    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.485157,-7.815004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   17    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   304    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.481797,-7.817402,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   18    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   305    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.481363,-7.814986,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   19    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   307    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.482919,-7.817834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   20    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   308    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.483097,-7.817845,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   21    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   309    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.479913,-7.81467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   22    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   310    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          110.479496,-7.81471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   23    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   311    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.479977,-7.81072,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   24    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   313    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.478386,-7.810755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   25    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   315    <br>   k_aset   P04    <br>   icon   0045]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.479941,-7.811755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   26    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   316    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.478614,-7.811213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   27    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   317    <br>   k_aset   P04    <br>   icon   0045]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.47941,-7.813238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   28    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   319    <br>   k_aset   P04    <br>   icon   0045]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.478028,-7.82047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   29    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   321    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.476983,-7.823953,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   30    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   322    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.478568,-7.81819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   31    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   323    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.478136,-7.815385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   32    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   330    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.483459,-7.811254,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   33    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   331    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          110.483438,-7.814208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   34    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   332    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.482988,-7.813711,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   35    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   347    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.474443,-7.818703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   36    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   348    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.477374,-7.818252,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   37    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   354    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.477348,-7.818229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   38    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   355    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.476198,-7.818727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   39    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   356    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.47649,-7.814494,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   40    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   357    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.474751,-7.814064,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   41    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   358    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.477789,-7.81334,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   42    <br>   nama   Sadap    <br>   nomenklatu   sd2    <br>   id_di   26641    <br>   norec   368    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.456172,-7.823955,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   43    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   371    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.466428,-7.806652,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   44    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   372    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.466386,-7.806584,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   45    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   373    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.468344,-7.802214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   46    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   374    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.46652,-7.802752,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   47    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   375    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.464885,-7.805709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   48    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   376    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.465737,-7.80604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   49    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   380    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.463937,-7.810616,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   50    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   383    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.462499,-7.818823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   51    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   387    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.462919,-7.825561,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   52    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   388    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.463616,-7.826232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   53    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   389    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.462088,-7.831322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   54    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   392    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.459184,-7.827456,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   55    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   394    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.457439,-7.830453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   56    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   396    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.45594,-7.824763,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   57    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   397    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.455906,-7.824568,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   58    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   402    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.46706,-7.819926,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   59    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   403    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.464326,-7.821823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   60    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   425    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.478552,-7.818347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi Sadap</name>
+      <description><![CDATA[Bagi Sadap    <br>       <br>   FID   61    <br>   nama   Bagi Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   430    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.466356,-7.806746,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   62    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   431    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          110.465092,-7.813326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   63    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   432    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.46555,-7.811494,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   64    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   434    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.462148,-7.823351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   65    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   439    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          110.458841,-7.828711,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   66    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   443    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.469926,-7.805531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   67    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   444    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.468821,-7.806537,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Drainase</name>
+      <description><![CDATA[Akhir Drainase    <br>       <br>   FID   68    <br>   nama   Akhir Drainase    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   269    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.460503,-7.831676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   69    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   303    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.482672,-7.817709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   70    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   312    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.479679,-7.810701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   71    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   324    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.477518,-7.814926,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   72    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   325    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.477558,-7.817389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   73    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   329    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.475681,-7.829922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   74    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   350    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.477562,-7.817398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   75    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   377    <br>   k_aset   P99    <br>   icon   006C]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.465654,-7.801668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   76    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ki 10    <br>   id_di   26641    <br>   norec   247    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.482126,-7.814523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   77    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   346    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.475243,-7.818943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   78    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ki 11    <br>   id_di   26641    <br>   norec   251    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.481352,-7.81736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>sadap 1</name>
+      <description><![CDATA[sadap 1    <br>       <br>   FID   79    <br>   nama   sadap 1    <br>   nomenklatu   1    <br>   id_di   26641    <br>   norec   367    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.457107,-7.824836,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Candiabang</name>
+      <description><![CDATA[Tersier Candiabang    <br>       <br>   FID   80    <br>   nama   Tersier Candiabang    <br>   nomenklatu   0    <br>   id_di   26641    <br>   norec   504    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          110.470969,-7.813492,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Awal Pembuang Pengklik</name>
+      <description><![CDATA[Awal Pembuang Pengklik    <br>       <br>   FID   81    <br>   nama   Awal Pembuang Pengklik    <br>   nomenklatu   0    <br>   id_di   26641    <br>   norec   505    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          110.477756,-7.812273,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akhir Pembuang Pengklik</name>
+      <description><![CDATA[Akhir Pembuang Pengklik    <br>       <br>   FID   82    <br>   nama   Akhir Pembuang Pengklik    <br>   nomenklatu   0    <br>   id_di   26641    <br>   norec   506    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          110.477451,-7.813104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan sadap</name>
+      <description><![CDATA[Bangunan sadap    <br>       <br>   FID   83    <br>   nama   Bangunan sadap    <br>   nomenklatu   BGn ki 7    <br>   id_di   26641    <br>   norec   231    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.479623,-7.807599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagi Sadap</name>
+      <description><![CDATA[Bagi Sadap    <br>       <br>   FID   84    <br>   nama   Bagi Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   345    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.476204,-7.818784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   85    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ki 6    <br>   id_di   26641    <br>   norec   228    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.476849,-7.806857,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   86    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ki 8    <br>   id_di   26641    <br>   norec   232    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.480948,-7.808507,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   87    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   297    <br>   k_aset   P04    <br>   icon   0045]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.484944,-7.815571,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   88    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   328    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.476184,-7.828142,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   89    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   340    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.479359,-7.808063,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   90    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   341    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.477748,-7.812235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan sadap</name>
+      <description><![CDATA[Bangunan sadap    <br>       <br>   FID   91    <br>   nama   Bangunan sadap    <br>   nomenklatu   BGn ki 4    <br>   id_di   26641    <br>   norec   221    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.474068,-7.805971,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   92    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ka 14 ki    <br>   id_di   26641    <br>   norec   270    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.460774,-7.826473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   93    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ka 16    <br>   id_di   26641    <br>   norec   268    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.459059,-7.825993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   94    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ka 15 ki    <br>   id_di   26641    <br>   norec   271    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.459567,-7.825837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   95    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ki 5    <br>   id_di   26641    <br>   norec   222    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.47552,-7.806482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap ke kiri</name>
+      <description><![CDATA[Sadap ke kiri    <br>       <br>   FID   96    <br>   nama   Sadap ke kiri    <br>   nomenklatu   BGn ka 11 ki    <br>   id_di   26641    <br>   norec   69    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.462134,-7.823408,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   97    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   344    <br>   k_aset   P02    <br>   icon   0069]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.476959,-7.816473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap ke kiri</name>
+      <description><![CDATA[Sadap ke kiri    <br>       <br>   FID   98    <br>   nama   Sadap ke kiri    <br>   nomenklatu   BGn ka 4    <br>   id_di   26641    <br>   norec   40    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.466438,-7.806654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   99    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   395    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.458934,-7.828392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   100    <br>   nama   Sadap    <br>   nomenklatu       <br>   id_di   26641    <br>   norec   393    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.458968,-7.82839,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[FID   101    <br>   nama       <br>   nomenklatu       <br>   id_di   26641    <br>   norec   318    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.479209,-7.815626,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap ke kiri</name>
+      <description><![CDATA[Sadap ke kiri    <br>       <br>   FID   102    <br>   nama   Sadap ke kiri    <br>   nomenklatu   BGn ka 3    <br>   id_di   26641    <br>   norec   38    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.46648,-7.806588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan Sadap</name>
+      <description><![CDATA[Bangunan Sadap    <br>       <br>   FID   103    <br>   nama   Bangunan Sadap    <br>   nomenklatu   BGn ka 6    <br>   id_di   26641    <br>   norec   49    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.465097,-7.813325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap</name>
+      <description><![CDATA[Sadap    <br>       <br>   FID   104    <br>   nama   Sadap    <br>   nomenklatu   sd1    <br>   id_di   26641    <br>   norec   369    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.456094,-7.823897,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap ke kanan</name>
+      <description><![CDATA[Sadap ke kanan    <br>       <br>   FID   105    <br>   nama   Sadap ke kanan    <br>   nomenklatu   BGn ka 8 ka    <br>   id_di   26641    <br>   norec   63    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.462373,-7.819513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadap ke kiri</name>
+      <description><![CDATA[Sadap ke kiri    <br>       <br>   FID   106    <br>   nama   Sadap ke kiri    <br>   nomenklatu   BGn ka 9    <br>   id_di   26641    <br>   norec   71    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.462886,-7.825527,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangunan sadap Akhir</name>
+      <description><![CDATA[Bangunan sadap Akhir    <br>       <br>   FID   107    <br>   nama   Bangunan sadap Akhir    <br>   nomenklatu   BGn ki 12    <br>   id_di   26641    <br>   norec   254    <br>   k_aset   P03    <br>   icon   0068]]></description>
+      <styleUrl>#icon-1499-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.480971,-7.818852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

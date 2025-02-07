@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NON_SALURAN</name>
+    <Style id="icon-1498-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1498-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1498-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1498-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1498-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>Data/Img/non.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>awal pembuang nglatek</name>
+      <description><![CDATA[awal pembuang nglatek    <br>       <br>   FID   0    <br>   nama   awal pembuang nglatek    <br>   nomenklatu   BSpNl    <br>   id_di   51878    <br>   norec   742    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1498-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          110.192984,-7.962144,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pengamat Sapon 2</name>
+      <description><![CDATA[Pengamat Sapon 2    <br>       <br>   FID   1    <br>   nama   Pengamat Sapon 2    <br>   nomenklatu   Pengamat Sapon 2    <br>   id_di   51878    <br>   norec   1102    <br>   k_aset   F01    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.233089,-7.940279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pengamat Sapon</name>
+      <description><![CDATA[Pengamat Sapon    <br>       <br>   FID   2    <br>   nama   Pengamat Sapon    <br>   nomenklatu   Pengamat Sapon    <br>   id_di   51878    <br>   norec   454    <br>   k_aset   F01    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.255379,-7.922469,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>pembuang sidoluhur</name>
+      <description><![CDATA[pembuang sidoluhur    <br>       <br>   FID   3    <br>   nama   pembuang sidoluhur    <br>   nomenklatu   1    <br>   id_di   51878    <br>   norec   932    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1498-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          110.180435,-7.93351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>box</name>
+      <description><![CDATA[box    <br>       <br>   FID   4    <br>   nama   box    <br>   nomenklatu   bst    <br>   id_di   51878    <br>   norec   862    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1899-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.21144,-7.951348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>box</name>
+      <description><![CDATA[box    <br>       <br>   FID   5    <br>   nama   box    <br>   nomenklatu   bst    <br>   id_di   51878    <br>   norec   861    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1899-795548</styleUrl>
+      <Point>
+        <coordinates>
+          110.2166,-7.95145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tersier Prembulan 1</name>
+      <description><![CDATA[Tersier Prembulan 1    <br>       <br>   FID   6    <br>   nama   Tersier Prembulan 1    <br>   nomenklatu   0    <br>   id_di   51878    <br>   norec   1047    <br>   k_aset   S15    <br>   icon]]></description>
+      <styleUrl>#icon-1739-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          110.210134,-7.933488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pembuang Ceme 2 Kanan</name>
+      <description><![CDATA[Pembuang Ceme 2 Kanan    <br>       <br>   FID   7    <br>   nama   Pembuang Ceme 2 Kanan    <br>   nomenklatu   0    <br>   id_di   51878    <br>   norec   965    <br>   k_aset   B99    <br>   icon   0075]]></description>
+      <styleUrl>#icon-1498-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          110.220475,-7.937928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pembuang Ceme 2 Kanan</name>
+      <description><![CDATA[Pembuang Ceme 2 Kanan    <br>       <br>   FID   8    <br>   nama   Pembuang Ceme 2 Kanan    <br>   nomenklatu   0    <br>   id_di   51878    <br>   norec   966    <br>   k_aset   S17    <br>   icon]]></description>
+      <styleUrl>#icon-1498-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          110.220475,-7.937928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gudang Pengamat</name>
+      <description><![CDATA[Gudang Pengamat    <br>       <br>   FID   9    <br>   nama   Gudang Pengamat    <br>   nomenklatu   Gudang Pengamat    <br>   id_di   51878    <br>   norec   453    <br>   k_aset   F03    <br>   icon   0048]]></description>
+      <styleUrl>#icon-1603-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          110.25522,-7.922347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
